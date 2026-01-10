@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 34,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.0.5/overtime_1.0.5.apk",
-  "changelog": "# OverTime v1.0.5\n- **Version:** 1.0.5\n- **Build:** 34\n- **Ngày phát hành:** 10/01/2026\n\n## Tính năng mới (Build 32-34)\n\n### ⚡ Cải thiện UX (Trải nghiệm người dùng)\n- **Swipe Actions:** Vuốt trái để Xóa (đỏ), Vuốt phải để Sửa (xanh) cực nhanh.\n- **Copy Entry:** Nhấn giữ bản ghi để \"Sao chép sang ngày khác\" - không cần nhập lại giờ.\n- **Quick Templates:** Nút ⚡ trên AppBar giúp áp dụng nhanh 5 khung giờ OT phổ biến.\n- **Undo:** Nút \"Hoàn tác\" xuất hiện ngay sau khi xóa để khôi phục bản ghi lỡ tay.\n\n### 📊 Xuất Excel cho kế toán\n- Xuất báo cáo tăng ca theo tháng (font Times New Roman)\n- Hỗ trợ chia sẻ trực tiếp qua Zalo, Email...\n- Tự động tính tổng giờ theo hệ số (1.5x, 1.8x, 2.0x)\n\n### ☁️ Cải thiện Sao lưu & Khôi phục\n- Đăng nhập nhanh (Silent Sign-In) - không còn loading chậm\n- Vào thẳng UI nếu đã đăng nhập trước đó\n\n### 🧹 Dọn dẹp ứng dụng\n- Tự động xóa file temp khi cập nhật lên version mới\n- Xóa APK cũ và file Excel > 7 ngày\n- Loại bỏ tính năng PDF không sử dụng (giảm ~2MB)\n\n### 🛠️ Cải thiện kỹ thuật\n- Tách repo updates riêng (OverTime_Updates)\n- Hiển thị nội dung \"Lịch sử cập nhật\" động từ server\n- Sửa lỗi font Excel và tối ưu hiệu suất\n",
-  "publishedAt": "2026-01-10T18:07:21.749846Z",
+  "versionName": "1.0.6",
+  "versionCode": 1,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.0.6/overtime_1.0.6.apk",
+  "changelog": "# Release Notes - Version 1.0.6+1\n\n## What's New\n- **Premium Line Charts:** Upgraded statistics visualization with smooth, curved line charts, gradients, and interactive tooltips for both Overtime and Cash Flow.\n- **Silent Sign-In Fix:** Moved Google Drive authentication to app startup (SplashScreen). The app now connects automatically in the background, making the Backup & Restore experience seamless.\n- **UX Improvements:** Faster access to backup data and improved chart readability.\n\n## Technical Changes\n- Replaced `BarChart` with `LineChart` in `StatisticsScreen`.\n- Refactored `BackupService` initialization in `SplashScreen`.\n- Optimized `BackupScreen` to use global authentication state.\n",
+  "publishedAt": "2026-01-10T18:36:13.302618Z",
   "fileSize": "21.6MB"
 }
