@@ -1,8 +1,8 @@
 {
   "versionName": "1.0.6",
-  "versionCode": 1,
+  "versionCode": 35,
   "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.0.6/overtime_1.0.6.apk",
-  "changelog": "# Release Notes - Version 1.0.6+1\n\n## What's New\n- **Premium Line Charts:** Upgraded statistics visualization with smooth, curved line charts, gradients, and interactive tooltips for both Overtime and Cash Flow.\n- **Silent Sign-In Fix:** Moved Google Drive authentication to app startup (SplashScreen). The app now connects automatically in the background, making the Backup & Restore experience seamless.\n- **UX Improvements:** Faster access to backup data and improved chart readability.\n\n## Technical Changes\n- Replaced `BarChart` with `LineChart` in `StatisticsScreen`.\n- Refactored `BackupService` initialization in `SplashScreen`.\n- Optimized `BackupScreen` to use global authentication state.\n",
-  "publishedAt": "2026-01-10T18:36:13.302618Z",
+  "changelog": "# Release Notes - Version 1.0.6+35\n\n## What's New\n- **Premium Line Charts:** Upgraded statistics visualization with smooth, curved line charts, gradients, and interactive tooltips for both Overtime and Cash Flow.\n- **Silent Sign-In Fix:** Moved Google Drive authentication to app startup (SplashScreen). The app now connects automatically in the background, making the Backup & Restore experience seamless.\n- **UX Improvements:** Faster access to backup data and improved chart readability.\n\n## Technical Changes\n- Replaced `BarChart` with `LineChart` in `StatisticsScreen`.\n- Refactored `BackupService` initialization in `SplashScreen`.\n- Optimized `BackupScreen` to use global authentication state.\n",
+  "publishedAt": "2026-01-10T18:45:27.859979Z",
   "fileSize": "21.6MB"
 }
