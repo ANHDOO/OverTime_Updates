@@ -1,8 +1,8 @@
 {
   "versionName": "1.0.5",
-  "versionCode": 29,
+  "versionCode": 30,
   "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.0.5/overtime_1.0.5.apk",
-  "changelog": "# OverTime v1.0.5\n- **Version:** 1.0.5\n- **Build:** 29\n- **Ngày phát hành:** 10/01/2026\n\n## Tinh năng moi\n- Cải thiện hiệu suất và ổn định\n- Sửa lỗi nhỏ\n",
-  "publishedAt": "2026-01-10T15:56:02.967022Z",
+  "changelog": "# OverTime v1.0.5\n- **Version:** 1.0.5\n- **Build:** 29\n- **Ngày phát hành:** 10/01/2026\n\n## Tính năng mới\n\n### 📊 Xuất Excel cho kế toán\n- Xuất báo cáo tăng ca theo tháng (font Times New Roman)\n- Hỗ trợ chia sẻ trực tiếp qua Zalo, Email...\n- Tự động tính tổng giờ theo hệ số (1.5x, 1.8x, 2.0x)\n\n### ☁️ Cải thiện Sao lưu & Khôi phục\n- Đăng nhập nhanh (Silent Sign-In) - không còn loading chậm\n- Vào thẳng UI nếu đã đăng nhập trước đó\n\n### 🧹 Dọn dẹp ứng dụng\n- Tự động xóa file temp khi cập nhật lên version mới\n- Xóa APK cũ và file Excel > 7 ngày\n- Loại bỏ tính năng PDF không sử dụng (giảm ~2MB)\n\n### 🔄 Cải thiện hệ thống cập nhật\n- Tách repo updates riêng (OverTime_Updates)\n- Hiển thị đúng nội dung \"Tính năng mới\"\n\n### 🛠️ Cải thiện kỹ thuật\n- Sửa lỗi font Excel\n- Tối ưu deploy script với --check mode\n- Sửa lỗi warnings trong code\n",
+  "publishedAt": "2026-01-10T16:09:16.782362Z",
   "fileSize": "21.6MB"
 }
