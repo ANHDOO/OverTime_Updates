@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.5",
-  "versionCode": 52,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.3.5/overtime_1.3.5.apk",
-  "changelog": "# Phiên bản 1.3.5\n\n## 🐛 Sửa lỗi quan trọng\n\n### Lỗi UI - Bảo mật\n- Sửa lỗi **dependents.isEmpty** khi tạo mật khẩu PIN mới\n- Thay đổi hiển thị lỗi validation từ SnackBar sang inline text trong dialog\n- Sử dụng StatefulBuilder cho dialog PIN để tránh xung đột context\n\n### Lỗi UI - Màn hình Cập nhật\n- Sửa lỗi **RenderFlex unbounded height** trong màn hình Cập nhật ứng dụng\n- Loại bỏ Spacer widget gây crash layout\n\n### Lỗi UI - Giao dịch & Đầu tư\n- Sửa lỗi tràn chữ (overflow) ở tag dự án trong thẻ giao dịch\n- Cập nhật SmartMoneyInput sử dụng style TextField tiêu chuẩn cho dialog thêm đầu tư vàng\n\n## ⚡ Cải tiến\n\n### Khôi phục dữ liệu\n- **Tự động khôi phục Google Sheets keys** khi restore database từ Google Drive\n- Thêm mounted checks để tránh crash khi restore hoàn tất\n- Thêm delay 50ms cho loading overlay hiển thị trước khi thực hiện operations nặng\n",
-  "publishedAt": "2026-01-12T19:33:48.000050Z",
-  "fileSize": "22.7MB"
+  "versionName": "1.3.6",
+  "versionCode": 53,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.3.6/overtime_1.3.6.apk",
+  "changelog": "# Phiên bản 1.3.6 (Build 53)\n**Ngày phát hành:** 13/01/2026\n\n## ✨ Tính năng mới\n\n### Tra cứu Phạt nguội - Giao diện Premium\n- **Header hiện đại**: Gradient màu xanh dương cao cấp, thêm logo CSGT chính thức\n- **Typography nâng cao**: Sử dụng font Google Outfit cho toàn bộ màn hình\n- **Card thiết kế mới**: Bo góc mềm mại, đổ bóng tinh tế\n- **Làm sạch dữ liệu**: Tự động loại bỏ mã số kỹ thuật rườm rà trong nội dung vi phạm\n- **Màu sắc thông minh**: Phân biệt trạng thái Chưa xử phạt (Đỏ) và Đã xử phạt (Xanh)\n\n## 🐛 Sửa lỗi\n\n### Tra cứu Phạt nguội\n- Fix lỗi hiển thị \"vi phạm ảo\" khi không có vi phạm (do bóc tách nhầm nội dung footer)\n- Xóa hoàn toàn Debug Log UI và console logs không cần thiết\n- Cải thiện loading indicator - chỉ hiển thị trên nút Tra cứu\n\n### Tra cứu Mã số thuế (MST)\n- Cải thiện logic captcha - chờ captcha tải hoàn toàn trước khi extract\n- Thêm polling kiểm tra trạng thái trang sau khi submit\n- Tự động xóa ô nhập captcha khi refresh\n\n## 🧹 Dọn dẹp\n- Xóa 25 file ảnh screenshot rác (~8MB)\n- Xóa các file metadata không cần thiết\n",
+  "publishedAt": "2026-01-13T17:30:33.739543Z",
+  "fileSize": "23.6MB"
 }
