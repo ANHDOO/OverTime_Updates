@@ -1,8 +1,8 @@
 {
-  "versionName": "1.3.8",
-  "versionCode": 55,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.3.8/overtime_1.3.8.apk",
-  "changelog": "# Phiên bản 1.3.8 (Build 55)\n**Ngày phát hành:** 13/01/2026\n\n## 🔄 Cập nhật\n- Rebuild và deploy lại với link tải mới\n- Kế thừa tất cả tính năng từ v1.3.7\n",
-  "publishedAt": "2026-01-13T18:02:17.976579Z",
-  "fileSize": "23.4MB"
+  "versionName": "1.3.9",
+  "versionCode": 56,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.3.9/overtime_1.3.9.apk",
+  "changelog": "# Nhật ký thay đổi v1.3.9\n\n### 🚀 Tính năng mới & Cải tiến\n- **Hợp nhất dịch vụ chạy ngầm**: Tối ưu hóa hệ thống chạy ngầm, gộp các tác vụ nhắc nhở và theo dõi giá vàng vào một dịch vụ duy nhất để tăng độ ổn định và tiết kiệm tài nguyên.\n- **Theo dõi giá vàng 24/7**: Hệ thống hiện tại sẽ kiểm tra giá vàng liên tục mỗi 15 phút (mức nhanh nhất Android cho phép) để không bỏ lỡ bất kỳ đợt thay đổi giá nào.\n- **Thông báo giá vàng chi tiết**:\n    - Hiển thị rõ ràng mức tăng/giảm kèm số tiền chênh lệch ngay trên tiêu đề thông báo.\n    - Nội dung thông báo so sánh trực tiếp giá mới và giá cũ.\n- **Tự động cập nhật lịch sử**: Giá vàng được tự động lưu vào cơ sở dữ liệu ngay cả khi ứng dụng đang đóng, giúp biểu đồ đầu tư luôn cập nhật chính xác.\n\n### 🛠 Sửa lỗi\n- Khắc phục lỗi xung đột dịch vụ chạy ngầm khiến thông báo giá vàng đôi khi không xuất hiện.\n- Loại bỏ các cảnh báo API cũ (deprecated) để đảm bảo ứng dụng hoạt động mượt mà trên các phiên bản Flutter mới nhất.\n- Sửa lỗi hiển thị và logic trong phần quản lý đầu tư vàng.\n",
+  "publishedAt": "2026-01-14T13:17:06.335873Z",
+  "fileSize": "23.5MB"
 }
