@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.3",
-  "versionCode": 60,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.3/overtime_1.4.3.apk",
-  "changelog": "# Phiên bản 1.4.3\n\n## Tính năng mới\n\n### Tái cấu trúc State Management (Refactor)\n- **Tách biệt Provider**: Phân chia `OvertimeProvider` thành các Provider chuyên biệt để tăng hiệu suất và dễ bảo trì:\n  - `DebtProvider`: Quản lý nợ lương.\n  - `CashTransactionProvider`: Quản lý thu chi và dự án.\n  - `CitizenProfileProvider`: Quản lý hồ sơ công dân.\n  - `GoldProvider`: Quản lý giá vàng và danh mục đầu tư.\n\n### Nâng cấp Giao diện Vàng (Gold UI/UX)\n- **Biểu đồ thông minh**: Tối giản hiển thị giá trên biểu đồ, chỉ hiện nhãn cho điểm dữ liệu mới nhất để tránh rối mắt.\n- **Tooltip chi tiết**: Hiển thị thêm chênh lệch Mua-Bán khi chạm vào biểu đồ.\n- **Danh mục đầu tư**: Thêm tab \"Sổ đầu tư\" giúp theo dõi tổng vốn, giá trị hiện tại và lợi nhuận thực tế theo thời gian thực.\n- **Aesthetics**: Cải thiện màu sắc, gradient và khoảng cách theo tiêu chuẩn thiết kế cao cấp.\n\n## Sửa lỗi & Cải tiến\n- **Visibility**: Sửa lỗi tương phản cho các Tab \"Giá hiện tại\" và \"Sổ đầu tư\" trên thanh tiêu đề.\n- **Chart Labels**: Cải thiện độ hiển thị của nhãn giá trên biểu đồ vàng bằng cách thêm nền tối tương phản.\n- **Compilation**: Sửa các lỗi biên dịch sau khi tái cấu trúc, đảm bảo ứng dụng chạy ổn định.\n- **Performance**: Tối ưu hóa việc tải dữ liệu và dọn dẹp bộ nhớ hình ảnh.\n",
-  "publishedAt": "2026-01-16T17:24:22.065899Z",
-  "fileSize": "63.9MB"
+  "versionName": "1.4.4",
+  "versionCode": 61,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.4/overtime_1.4.4.apk",
+  "changelog": "# Phiên bản 1.4.4\n\n## Tính năng mới\n\n### Settings Hub (Trung tâm Cài đặt)\n- **Gộp cài đặt**: Tất cả các mục cài đặt được tập trung vào một màn hình duy nhất, giúp truy cập nhanh và dễ quản lý hơn.\n- **Giao diện mới**: Thiết kế hiện đại với các section rõ ràng: Giao diện, Dữ liệu, Bảo mật, và Thông tin ứng dụng.\n\n### Tùy chọn Font chữ\n- **Chọn font linh hoạt**: Cho phép người dùng chọn font chữ yêu thích từ danh sách: UTM-HelvetIns, Inter, Roboto.\n- **Xem trước font**: Hiển thị preview font ngay trong phần cài đặt trước khi áp dụng.\n- **Lưu tùy chọn**: Font được chọn sẽ được lưu lại và áp dụng vào lần mở app tiếp theo.\n\n## Cải tiến\n\n### Tái cấu trúc thư mục\n- **Tổ chức code tốt hơn**: Chia thư mục `lib/` thành các phần rõ ràng:\n  - `core/`: Theme, utilities, extensions.\n  - `data/`: Models, services, database.\n  - `logic/`: Providers, state management.\n  - `presentation/`: Screens, widgets, UI components.\n\n### Giao diện\n- Cải thiện side menu với icons và layout rõ ràng hơn.\n- Sửa lỗi hiển thị và tối ưu UX cho các màn hình cài đặt.\n",
+  "publishedAt": "2026-01-16T17:34:57.936113Z",
+  "fileSize": "23.4MB"
 }
