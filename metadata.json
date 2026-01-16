@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.4",
-  "versionCode": 61,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.4/overtime_1.4.4.apk",
-  "changelog": "# Phiên bản 1.4.4\n\n## Tính năng mới\n\n### Settings Hub (Trung tâm Cài đặt)\n- **Gộp cài đặt**: Tất cả các mục cài đặt được tập trung vào một màn hình duy nhất, giúp truy cập nhanh và dễ quản lý hơn.\n- **Giao diện mới**: Thiết kế hiện đại với các section rõ ràng: Giao diện, Dữ liệu, Bảo mật, và Thông tin ứng dụng.\n\n### Tùy chọn Font chữ\n- **Chọn font linh hoạt**: Cho phép người dùng chọn font chữ yêu thích từ danh sách: UTM-HelvetIns, Inter, Roboto.\n- **Xem trước font**: Hiển thị preview font ngay trong phần cài đặt trước khi áp dụng.\n- **Lưu tùy chọn**: Font được chọn sẽ được lưu lại và áp dụng vào lần mở app tiếp theo.\n\n## Cải tiến\n\n### Tái cấu trúc thư mục\n- **Tổ chức code tốt hơn**: Chia thư mục `lib/` thành các phần rõ ràng:\n  - `core/`: Theme, utilities, extensions.\n  - `data/`: Models, services, database.\n  - `logic/`: Providers, state management.\n  - `presentation/`: Screens, widgets, UI components.\n\n### Giao diện\n- Cải thiện side menu với icons và layout rõ ràng hơn.\n- Sửa lỗi hiển thị và tối ưu UX cho các màn hình cài đặt.\n",
-  "publishedAt": "2026-01-16T17:34:57.936113Z",
+  "versionName": "1.4.5",
+  "versionCode": 62,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.5/overtime_1.4.5.apk",
+  "changelog": "# Phiên bản 1.4.5\n\n## Sửa lỗi\n\n### Font chữ động\n- **Sửa lỗi font không thay đổi**: Khắc phục lỗi chọn font trong Settings Hub nhưng không áp dụng được dù đã restart app.\n- **Cơ chế mới**: Font chữ giờ được áp dụng động thông qua `FontProvider`, không còn hardcode trong theme.\n\n### Giao diện\n- **Gộp toggle sáng/tối**: Xóa bỏ toggle chế độ sáng/tối trùng lặp trong Side Menu, chỉ giữ lại trong Settings Hub.\n- **Code cleanup**: Loại bỏ các widget và import không sử dụng để giảm kích thước app.\n",
+  "publishedAt": "2026-01-16T17:52:38.938419Z",
   "fileSize": "23.4MB"
 }
