@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.10",
-  "versionCode": 68,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.10/overtime_1.4.10.apk",
-  "changelog": "# Nhật ký thay đổi v1.4.9\n\nBản vá lỗi hệ thống cập nhật và tối ưu xuất PDF.\n\n### 🛠 Sửa lỗi & Cải tiến\n- **Hệ thống cập nhật:**\n    - Thêm thông báo (Notification) khi có bản cập nhật mới, khi tải xong và khi gặp lỗi.\n    - Sửa lỗi tải lại 2 lần khi thoát ra màn hình khác rồi quay lại.\n    - Luôn hiển thị nhật ký thay đổi của phiên bản mới trong quá trình tải.\n- **Xuất PDF:**\n    - Tối ưu hóa layout 9 ảnh/trang, đảm bảo không bị mất hàng cuối cùng.\n    - Cải thiện độ chính xác khi tính toán kích thước ảnh trên trang A4.\n    - Thêm log hệ thống để theo dõi quá trình tạo PDF.\n",
-  "publishedAt": "2026-01-18T16:05:32.099725Z",
+  "versionName": "1.4.11",
+  "versionCode": 69,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.11/overtime_1.4.11.apk",
+  "changelog": "- Cải thiện hệ thống thông báo: chuyên nghiệp hơn, thêm thanh tiến trình khi tải.\n- Tối ưu hóa tải bản cập nhật dưới nền, tăng độ ổn định khi chuyển đổi ứng dụng.\n- Cải thiện nhắc nhở VAT: nhắc nhở tức thì khi thêm giao dịch mới.\n- Quét và lên lịch nhắc VAT chính xác hơn tại màn hình khởi động.\n- Sửa lỗi hiển thị nhật ký thay đổi (changelog) bị thiếu các mục con thụt lề.\n",
+  "publishedAt": "2026-01-18T16:50:44.766243Z",
   "fileSize": "57.6MB"
 }
