@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.8",
-  "versionCode": 66,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.8/overtime_1.4.8.apk",
-  "changelog": "# OverTime v1.4.8\n- **Version:** 1.4.8\n- **Build:** 66\n- **Ngày phát hành:** 18/01/2026\n\n## Tính năng mới 🚀\n- **Nhắc nhở VAT**: Tự động nhắc nhở lấy hóa đơn VAT cho các giao dịch có thuế vào 9h sáng hàng ngày.\n- **In ảnh chứng từ**: Hỗ trợ xuất PDF A4 với layout tối ưu 9 ảnh/trang (3x3).\n- **Cắt ảnh (Crop)**: \n    - Tự động mở màn hình cắt ảnh khi chọn/chụp ảnh mới.\n    - Thêm tính năng \"Cắt ảnh hiện tại\" cho các ảnh đã có sẵn.\n    - Tối ưu đồng bộ: Tự động cập nhật ảnh mới lên Google Drive (ghi đè file cũ).\n\n## Cải tiến & Sửa lỗi 🛠️\n- Sửa lỗi PDF layout hiển thị không đủ ảnh.\n- Sửa lỗi \"Unable to print\" khi gặp ảnh lỗi trong quá trình tạo PDF.\n- Thêm log chi tiết để theo dõi quá trình đồng bộ Drive.\n",
-  "publishedAt": "2026-01-18T14:50:22.432038Z",
+  "versionName": "1.4.9",
+  "versionCode": 67,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.9/overtime_1.4.9.apk",
+  "changelog": "# Nhật ký thay đổi v1.4.9\n\nBản vá lỗi hệ thống cập nhật và tối ưu xuất PDF.\n\n### 🛠 Sửa lỗi & Cải tiến\n- **Hệ thống cập nhật:**\n    - Thêm thông báo (Notification) khi có bản cập nhật mới, khi tải xong và khi gặp lỗi.\n    - Sửa lỗi tải lại 2 lần khi thoát ra màn hình khác rồi quay lại.\n    - Luôn hiển thị nhật ký thay đổi của phiên bản mới trong quá trình tải.\n- **Xuất PDF:**\n    - Tối ưu hóa layout 9 ảnh/trang, đảm bảo không bị mất hàng cuối cùng.\n    - Cải thiện độ chính xác khi tính toán kích thước ảnh trên trang A4.\n    - Thêm log hệ thống để theo dõi quá trình tạo PDF.\n",
+  "publishedAt": "2026-01-18T15:57:29.600118Z",
   "fileSize": "57.6MB"
 }
