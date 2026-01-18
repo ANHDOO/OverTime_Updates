@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.7",
-  "versionCode": 65,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.7/overtime_1.4.7.apk",
-  "changelog": "# OverTime v1.4.7 - Nhật ký thay đổi\n\nPhiên bản 1.4.7 tập trung vào việc tối ưu hóa hiệu suất và hoàn thiện báo cáo Excel.\n\n### 🚀 Tính năng mới & Cải tiến\n- **Tối ưu hóa hiệu suất (UI Loop):**\n  - Chuyển quá trình đồng bộ Google Sheets và Drive sang luồng xử lý ngầm, giúp app không bị treo khi Lưu/Sửa giao dịch.\n  - Thêm màn hình chờ (Loading) mượt mà khi xuất Excel để tránh cảm giác app bị đơ.\n  - Xử lý bất đồng bộ khi khởi tạo Workbook Excel.\n- **Hoàn thiện xuất Excel:**\n  - Tự động gộp hàng cho cùng một nhà cung cấp trong báo cáo giải chi.\n  - Tự động hiển thị nhãn \"Hoá đơn giấy\" cho các giao dịch không đính kèm ảnh.\n\n### 🛠️ Sửa lỗi (Bug Fixes)\n- Sửa lỗi link \"Xem ảnh\" trong Excel bị báo \"Reference isn't valid\".\n- Sửa lỗi hình ảnh chứng từ trong Excel bị méo mó, không giữ đúng tỷ lệ.\n- Sửa lỗi khoảng cách giữa các ảnh trong sheet Chứng từ bị đè lên nhau.\n- Cải thiện độ ổn định khi xử lý dữ liệu lớn.\n\n---\n*Cảm ơn bạn đã sử dụng OverTime!*\n",
-  "publishedAt": "2026-01-17T23:06:32.903477Z",
-  "fileSize": "56.7MB"
+  "versionName": "1.4.8",
+  "versionCode": 66,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.8/overtime_1.4.8.apk",
+  "changelog": "# OverTime v1.4.8\n- **Version:** 1.4.8\n- **Build:** 66\n- **Ngày phát hành:** 18/01/2026\n\n## Tính năng mới 🚀\n- **Nhắc nhở VAT**: Tự động nhắc nhở lấy hóa đơn VAT cho các giao dịch có thuế vào 9h sáng hàng ngày.\n- **In ảnh chứng từ**: Hỗ trợ xuất PDF A4 với layout tối ưu 9 ảnh/trang (3x3).\n- **Cắt ảnh (Crop)**: \n    - Tự động mở màn hình cắt ảnh khi chọn/chụp ảnh mới.\n    - Thêm tính năng \"Cắt ảnh hiện tại\" cho các ảnh đã có sẵn.\n    - Tối ưu đồng bộ: Tự động cập nhật ảnh mới lên Google Drive (ghi đè file cũ).\n\n## Cải tiến & Sửa lỗi 🛠️\n- Sửa lỗi PDF layout hiển thị không đủ ảnh.\n- Sửa lỗi \"Unable to print\" khi gặp ảnh lỗi trong quá trình tạo PDF.\n- Thêm log chi tiết để theo dõi quá trình đồng bộ Drive.\n",
+  "publishedAt": "2026-01-18T14:50:22.432038Z",
+  "fileSize": "57.6MB"
 }
