@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.14",
-  "versionCode": 72,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.14/overtime_1.4.14.apk",
-  "changelog": "# OverTime v1.4.14\n\n### Tính năng mới & Cải tiến\n- **Quản lý Công tác thông minh**: \n    - Hỗ trợ lưu lịch sử nhiều chuyến công tác trong tháng.\n    - Dữ liệu được lưu trữ bền vững trong cơ sở dữ liệu, không bị mất khi reset ứng dụng.\n    - Giao diện quản lý chuyến công tác trực quan hơn.\n- **Cập nhật logic Tiền xăng & Tiền mạng**:\n    - Tự động tính 100.000đ tiền xăng cho các chuyến công tác ngắn hạn (< 14 ngày).\n    - Tự động chuyển sang tiền mạng (120.000đ) khi đi công tác từ 14 ngày trở lên.\n\n### Sửa lỗi\n- **Sửa lỗi tính tăng ca Thứ 7 - Chủ nhật**: Hệ số tăng ca sau 12h đêm Thứ 7 (rạng sáng Chủ nhật) hiện đã được tính đúng là 2.0x.\n- **Tối ưu hóa hiệu năng**: Cải thiện tốc độ tải dữ liệu và xử lý tính toán lương.\n",
-  "publishedAt": "2026-01-19T11:44:29.142544Z",
-  "fileSize": "57.6MB"
+  "versionName": "1.4.15",
+  "versionCode": 73,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.15/overtime_1.4.15.apk",
+  "changelog": "## 🚀 Tính năng mới\n- **Hỗ trợ hóa đơn PDF**: Giờ đây bạn có thể chia sẻ file PDF hóa đơn từ Zalo, Files... vào ứng dụng. App sẽ tự động nhận diện và đính kèm vào giao dịch tương ứng.\n- **Tự động xóa file rác**: Khi bạn xóa ảnh hoặc file VAT khỏi giao dịch, file gốc trên máy và trên Google Drive cũng sẽ được xóa sạch để tiết kiệm dung lượng.\n\n## 🛠️ Sửa lỗi & Cải thiện\n- Cải thiện thuật toán khớp hóa đơn VAT theo tên nhà cung cấp.\n- Sửa lỗi ảnh đã xóa nhưng vẫn hiện lại sau khi lưu.\n",
+  "publishedAt": "2026-01-19T15:09:24.323906Z",
+  "fileSize": "57.7MB"
 }
