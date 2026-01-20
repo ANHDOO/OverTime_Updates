@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.15",
-  "versionCode": 73,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.15/overtime_1.4.15.apk",
-  "changelog": "## 🚀 Tính năng mới\n- **Hỗ trợ hóa đơn PDF**: Giờ đây bạn có thể chia sẻ file PDF hóa đơn từ Zalo, Files... vào ứng dụng. App sẽ tự động nhận diện và đính kèm vào giao dịch tương ứng.\n- **Tự động xóa file rác**: Khi bạn xóa ảnh hoặc file VAT khỏi giao dịch, file gốc trên máy và trên Google Drive cũng sẽ được xóa sạch để tiết kiệm dung lượng.\n\n## 🛠️ Sửa lỗi & Cải thiện\n- Cải thiện thuật toán khớp hóa đơn VAT theo tên nhà cung cấp.\n- Sửa lỗi ảnh đã xóa nhưng vẫn hiện lại sau khi lưu.\n",
-  "publishedAt": "2026-01-19T15:09:24.323906Z",
+  "versionName": "1.4.16",
+  "versionCode": 74,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.16/overtime_1.4.16.apk",
+  "changelog": "# Bản cập nhật 1.4.16\n\n### ✨ Tính năng mới\n- **Hỗ trợ OCR cho file PDF**: Bây giờ bạn có thể chia sẻ file PDF hóa đơn trực tiếp vào ứng dụng để tự động trích xuất dữ liệu.\n- **Cải thiện tìm kiếm giao dịch VAT**: Thuật toán \"Smart Scoring\" mới giúp tìm chính xác giao dịch dựa trên tên nhà cung cấp, loại bỏ các kết quả sai lệch do địa danh hoặc từ ngữ thông dụng.\n- **Nút thử nghiệm thông báo**: Thêm nút \"Thử nghiệm nhắc VAT\" trong phần cài đặt để bạn dễ dàng kiểm tra tính năng điều hướng.\n\n### 🛠️ Cải tiến & Sửa lỗi\n- **Sửa lỗi điều hướng thông báo**: Đảm bảo khi nhấn vào thông báo (Cập nhật, Nhắc VAT), ứng dụng sẽ mở đúng màn hình ngay cả khi đang đóng.\n- **Tự động xóa file**: Khi xóa giao dịch hoặc gỡ bỏ ảnh/VAT, các file tương ứng trên máy và trên Google Drive sẽ được tự động dọn dẹp để tiết kiệm bộ nhớ.\n- **Giao diện Nhắc nhở**: Thu gọn giao diện, loại bỏ các thành phần không cần thiết để trải nghiệm mượt mà hơn.\n- **Sửa lỗi lưu trữ**: Đảm bảo các thay đổi về ảnh và hóa đơn được lưu chính xác vào cơ sở dữ liệu.\n",
+  "publishedAt": "2026-01-20T10:02:05.546262Z",
   "fileSize": "57.7MB"
 }
