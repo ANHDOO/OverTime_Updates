@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.18",
-  "versionCode": 76,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.18/overtime_1.4.18.apk",
-  "changelog": "# Bản cập nhật 1.4.18\n\n### 🛠️ Cải tiến & Sửa lỗi\n- **Sửa giao diện Cài đặt lương**: Giảm khoảng cách thừa giữa các trường nhập liệu, giúp giao diện gọn gàng và dễ nhìn hơn.\n- **Tự động đồng bộ hóa (Auto-Sync)**: Dữ liệu của bạn giờ đây sẽ được tự động đồng bộ lên Google Drive mỗi khi có thay đổi.\n- **Kiểm tra cập nhật chạy ngầm**: Ứng dụng sẽ tự động kiểm tra phiên bản mới mỗi 4 giờ và thông báo cho bạn.\n",
-  "publishedAt": "2026-01-20T13:23:55.829286Z",
+  "versionName": "1.4.19",
+  "versionCode": 77,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.19/overtime_1.4.19.apk",
+  "changelog": "# Bản cập nhật 1.4.19\n\n### 🛠️ Sửa lỗi khẩn cấp\n- **Sửa lỗi kiểm tra cập nhật**: Khắc phục lỗi \"Không thể lấy thông tin cập nhật\" khi nhấn nút kiểm tra cập nhật thủ công.\n",
+  "publishedAt": "2026-01-20T13:36:46.809757Z",
   "fileSize": "57.7MB"
 }
