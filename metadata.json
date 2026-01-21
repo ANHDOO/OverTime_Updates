@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.20",
-  "versionCode": 78,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.20/overtime_1.4.20.apk",
-  "changelog": "# Bản cập nhật 1.4.20\n\n### 🛠️ Sửa lỗi\n- **Sửa lỗi tự động đồng bộ**: Khắc phục lỗi auto-sync không hoạt động do chưa khởi tạo Google Sign-In trước khi đồng bộ.\n- **Cải thiện giao diện Cài đặt lương**: Giảm khoảng cách giữa các trường nhập liệu từ 20px xuống 12px.\n",
-  "publishedAt": "2026-01-20T13:43:06.316346Z",
+  "versionName": "1.4.21",
+  "versionCode": 79,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.21/overtime_1.4.21.apk",
+  "changelog": "# Bản cập nhật 1.4.21\n\n### ✨ Cải tiến giao diện\n- **Màn hình Cài đặt lương**: Hoàn toàn làm mới với thiết kế dạng thẻ (Card) hiện đại, gọn gàng và dễ nhìn hơn.\n- **SmartMoneyInput**: Loại bỏ khoảng trống thừa khi không có gợi ý nhập liệu.\n- **Màn hình Nhắc nhở**: \n  - Xóa các nút \"Thử nghiệm\" không cần thiết.\n  - Đưa nút gạt \"Thông báo giá vàng\" lên trên cùng để dễ tiếp cận hơn.\n",
+  "publishedAt": "2026-01-21T08:33:21.931426Z",
   "fileSize": "57.7MB"
 }
