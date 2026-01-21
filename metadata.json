@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.24",
-  "versionCode": 82,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.24/overtime_1.4.24.apk",
-  "changelog": "# Bản cập nhật 1.4.24\n\n### ✨ Tính năng mới: Gán ảnh thông minh (OCR Auto-Match)\n\n**Tại Cài đặt > Dữ liệu & Đồng bộ > Kiểm tra & Dọn dẹp > Tab \"Dọn dẹp Drive\":**\n\n-   **Xem trước ảnh**: Nhấn vào ảnh thừa để xem nội dung.\n-   **Nhận diện tự động**: App quét ảnh (OCR) và trích xuất Số tiền, Nhà cung cấp, Ngày.\n-   **Gợi ý khớp**: App so sánh với danh sách giao dịch thiếu ảnh và đề xuất giao dịch phù hợp.\n-   **Gán nhanh**: Chỉ cần nhấn \"Gán nhanh\" để ghép ảnh vào giao dịch được gợi ý.\n-   **Gán thủ công**: Nếu gợi ý không đúng, bạn vẫn có thể chọn giao dịch thủ công.\n",
-  "publishedAt": "2026-01-21T11:13:02.363364Z",
-  "fileSize": "57.8MB"
+  "versionName": "1.4.25",
+  "versionCode": 83,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.25/overtime_1.4.25.apk",
+  "changelog": "## 🚀 Tính năng mới\n\n### 1. Nâng cấp OCR & Tự động khớp lệnh (OCR Upgrade)\n- **Quét QR Code**: Tự động quét mã QR trên hóa đơn điện tử để lấy chính xác Mã số thuế, Ngày và Số tiền.\n- **Nhận diện thông minh**: Cải thiện thuật toán đọc tên nhà cung cấp (ví dụ: \"LASERTEK\", \"2 T&N\").\n- **Khớp lệnh theo trọng số**:\n    - Ưu tiên khớp cả Số tiền và Tên nhà cung cấp.\n    - Tự động gợi ý giao dịch khớp nhất dựa trên dữ liệu quét được.\n\n### 2. Thiết kế lại Cài đặt lương (Salary Settings Redesign)\n- **Giao diện hiện đại**: Bố cục mới thoáng đãng, chia nhóm rõ ràng.\n- **Toggle mới**: Chuyển đổi phương thức tính lương mượt mà hơn.\n- **Hero Card**: Hiển thị Lương theo giờ nổi bật.\n\n### 3. Bộ lọc Quỹ dự án (Project Fund Filter)\n- **Tìm kiếm chi tiết**: Lọc theo Loại thu/chi, Hình thức thanh toán, Khoảng thời gian, Số tiền.\n- **Lọc theo chứng từ**: Dễ dàng tìm các giao dịch thiếu ảnh hoặc thiếu VAT.\n\n## 🛠️ Cải thiện & Sửa lỗi\n- Tối ưu hóa hiệu năng quét ảnh.\n- Sửa lỗi giao diện trên màn hình nhỏ.\n",
+  "publishedAt": "2026-01-21T18:19:22.130731Z",
+  "fileSize": "72.6MB"
 }
