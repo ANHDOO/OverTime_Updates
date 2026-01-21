@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.22",
-  "versionCode": 80,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.22/overtime_1.4.22.apk",
-  "changelog": "# Bản cập nhật 1.4.22\n\n### 🐛 Sửa lỗi quan trọng\n- **Sửa lỗi vòng lặp thông báo**: App không còn mở đóng liên tục khi nhấn vào thông báo nhắc nhở hằng ngày.\n\n### ✨ Cải tiến giao diện\n- **Màn hình Cài đặt lương**:\n  - Căn lề phải cho các ô nhập tiền (số tiền nằm sát chữ \"đ\").\n  - Sửa đơn vị \"Số ngày nghỉ\" thành \"ngày\".\n",
-  "publishedAt": "2026-01-21T09:24:02.533604Z",
+  "versionName": "1.4.23",
+  "versionCode": 81,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.23/overtime_1.4.23.apk",
+  "changelog": "# Bản cập nhật 1.4.23\n\n### ✨ Tính năng mới\n- **Kiểm tra & Dọn dẹp**: Tính năng mới truy cập từ Cài đặt > Dữ liệu & Đồng bộ.\n  - **Tab \"Thiếu chứng từ\"**: Liệt kê các giao dịch chi tiêu chưa có ảnh đính kèm (không áp dụng cho Hoá đơn giấy). Có thể bổ sung ảnh trực tiếp hoặc khôi phục từ Drive.\n  - **Tab \"Dọn dẹp Drive\"**: Quét và xóa các ảnh \"thừa\" trên Google Drive (không khớp với giao dịch nào trong App).\n",
+  "publishedAt": "2026-01-21T10:24:25.528122Z",
   "fileSize": "57.7MB"
 }
