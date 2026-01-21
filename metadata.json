@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.23",
-  "versionCode": 81,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.23/overtime_1.4.23.apk",
-  "changelog": "# Bản cập nhật 1.4.23\n\n### ✨ Tính năng mới\n- **Kiểm tra & Dọn dẹp**: Tính năng mới truy cập từ Cài đặt > Dữ liệu & Đồng bộ.\n  - **Tab \"Thiếu chứng từ\"**: Liệt kê các giao dịch chi tiêu chưa có ảnh đính kèm (không áp dụng cho Hoá đơn giấy). Có thể bổ sung ảnh trực tiếp hoặc khôi phục từ Drive.\n  - **Tab \"Dọn dẹp Drive\"**: Quét và xóa các ảnh \"thừa\" trên Google Drive (không khớp với giao dịch nào trong App).\n",
-  "publishedAt": "2026-01-21T10:24:25.528122Z",
-  "fileSize": "57.7MB"
+  "versionName": "1.4.24",
+  "versionCode": 82,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.24/overtime_1.4.24.apk",
+  "changelog": "# Bản cập nhật 1.4.24\n\n### ✨ Tính năng mới: Gán ảnh thông minh (OCR Auto-Match)\n\n**Tại Cài đặt > Dữ liệu & Đồng bộ > Kiểm tra & Dọn dẹp > Tab \"Dọn dẹp Drive\":**\n\n-   **Xem trước ảnh**: Nhấn vào ảnh thừa để xem nội dung.\n-   **Nhận diện tự động**: App quét ảnh (OCR) và trích xuất Số tiền, Nhà cung cấp, Ngày.\n-   **Gợi ý khớp**: App so sánh với danh sách giao dịch thiếu ảnh và đề xuất giao dịch phù hợp.\n-   **Gán nhanh**: Chỉ cần nhấn \"Gán nhanh\" để ghép ảnh vào giao dịch được gợi ý.\n-   **Gán thủ công**: Nếu gợi ý không đúng, bạn vẫn có thể chọn giao dịch thủ công.\n",
+  "publishedAt": "2026-01-21T11:13:02.363364Z",
+  "fileSize": "57.8MB"
 }
