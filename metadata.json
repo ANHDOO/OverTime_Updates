@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.21",
-  "versionCode": 79,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.21/overtime_1.4.21.apk",
-  "changelog": "# Bản cập nhật 1.4.21\n\n### ✨ Cải tiến giao diện\n- **Màn hình Cài đặt lương**: Hoàn toàn làm mới với thiết kế dạng thẻ (Card) hiện đại, gọn gàng và dễ nhìn hơn.\n- **SmartMoneyInput**: Loại bỏ khoảng trống thừa khi không có gợi ý nhập liệu.\n- **Màn hình Nhắc nhở**: \n  - Xóa các nút \"Thử nghiệm\" không cần thiết.\n  - Đưa nút gạt \"Thông báo giá vàng\" lên trên cùng để dễ tiếp cận hơn.\n",
-  "publishedAt": "2026-01-21T08:33:21.931426Z",
+  "versionName": "1.4.22",
+  "versionCode": 80,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.22/overtime_1.4.22.apk",
+  "changelog": "# Bản cập nhật 1.4.22\n\n### 🐛 Sửa lỗi quan trọng\n- **Sửa lỗi vòng lặp thông báo**: App không còn mở đóng liên tục khi nhấn vào thông báo nhắc nhở hằng ngày.\n\n### ✨ Cải tiến giao diện\n- **Màn hình Cài đặt lương**:\n  - Căn lề phải cho các ô nhập tiền (số tiền nằm sát chữ \"đ\").\n  - Sửa đơn vị \"Số ngày nghỉ\" thành \"ngày\".\n",
+  "publishedAt": "2026-01-21T09:24:02.533604Z",
   "fileSize": "57.7MB"
 }
