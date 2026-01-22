@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.25",
-  "versionCode": 83,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.25/overtime_1.4.25.apk",
-  "changelog": "## 🚀 Tính năng mới\n\n### 1. Nâng cấp OCR & Tự động khớp lệnh (OCR Upgrade)\n- **Quét QR Code**: Tự động quét mã QR trên hóa đơn điện tử để lấy chính xác Mã số thuế, Ngày và Số tiền.\n- **Nhận diện thông minh**: Cải thiện thuật toán đọc tên nhà cung cấp (ví dụ: \"LASERTEK\", \"2 T&N\").\n- **Khớp lệnh theo trọng số**:\n    - Ưu tiên khớp cả Số tiền và Tên nhà cung cấp.\n    - Tự động gợi ý giao dịch khớp nhất dựa trên dữ liệu quét được.\n\n### 2. Thiết kế lại Cài đặt lương (Salary Settings Redesign)\n- **Giao diện hiện đại**: Bố cục mới thoáng đãng, chia nhóm rõ ràng.\n- **Toggle mới**: Chuyển đổi phương thức tính lương mượt mà hơn.\n- **Hero Card**: Hiển thị Lương theo giờ nổi bật.\n\n### 3. Bộ lọc Quỹ dự án (Project Fund Filter)\n- **Tìm kiếm chi tiết**: Lọc theo Loại thu/chi, Hình thức thanh toán, Khoảng thời gian, Số tiền.\n- **Lọc theo chứng từ**: Dễ dàng tìm các giao dịch thiếu ảnh hoặc thiếu VAT.\n\n## 🛠️ Cải thiện & Sửa lỗi\n- Tối ưu hóa hiệu năng quét ảnh.\n- Sửa lỗi giao diện trên màn hình nhỏ.\n",
-  "publishedAt": "2026-01-21T18:19:22.130731Z",
+  "versionName": "1.4.26",
+  "versionCode": 84,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.26/overtime_1.4.26.apk",
+  "changelog": "# Phiên bản 1.4.26\n\n## 🚀 Tính năng mới\n-   **Kiểm tra VAT & Dọn dẹp Drive**:\n    -   Tab **Thiếu VAT**: Tự động phát hiện các khoản chi có thuế nhưng chưa đính kèm hóa đơn.\n    -   Tab **VAT trên Drive**: Quản lý file trong thư mục `vat_docs`.\n    -   **Auto-Match thông minh**: Tự động quét file PDF/Ảnh trên Drive và gợi ý khớp với giao dịch dựa trên Số tiền, Nhà cung cấp và Ngày.\n    -   Hỗ trợ xem trước và xóa file thừa trực tiếp từ ứng dụng.\n\n## 💄 Cải thiện giao diện\n-   **Cài đặt lương**:\n    -   Loại bỏ số \"0\" gây rối mắt trên các ô nhập liệu.\n    -   Tinh chỉnh hiển thị đơn vị tiền tệ trong chế độ nhập thủ công.\n",
+  "publishedAt": "2026-01-22T12:07:06.596062Z",
   "fileSize": "72.6MB"
 }
