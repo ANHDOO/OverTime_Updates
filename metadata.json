@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.26",
-  "versionCode": 84,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.26/overtime_1.4.26.apk",
-  "changelog": "# Phiên bản 1.4.26\n\n## 🚀 Tính năng mới\n-   **Kiểm tra VAT & Dọn dẹp Drive**:\n    -   Tab **Thiếu VAT**: Tự động phát hiện các khoản chi có thuế nhưng chưa đính kèm hóa đơn.\n    -   Tab **VAT trên Drive**: Quản lý file trong thư mục `vat_docs`.\n    -   **Auto-Match thông minh**: Tự động quét file PDF/Ảnh trên Drive và gợi ý khớp với giao dịch dựa trên Số tiền, Nhà cung cấp và Ngày.\n    -   Hỗ trợ xem trước và xóa file thừa trực tiếp từ ứng dụng.\n\n## 💄 Cải thiện giao diện\n-   **Cài đặt lương**:\n    -   Loại bỏ số \"0\" gây rối mắt trên các ô nhập liệu.\n    -   Tinh chỉnh hiển thị đơn vị tiền tệ trong chế độ nhập thủ công.\n",
-  "publishedAt": "2026-01-22T12:07:06.596062Z",
-  "fileSize": "72.6MB"
+  "versionName": "1.4.27",
+  "versionCode": 85,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.27/overtime_1.4.27.apk",
+  "changelog": "## Thay đổi trong phiên bản 1.4.27\n\n### 🚀 Tối ưu hóa & Hiệu năng\n- **Giảm dung lượng ứng dụng:** Đã loại bỏ hoàn toàn các thư viện không còn sử dụng (`excel`, `pdfx`, `google_fonts`, `google_mlkit_barcode_scanning`).\n- **Cải tiến xử lý PDF:** Chuyển sang sử dụng thư viện `printing` để rasterize PDF cho tính năng OCR, giúp quy trình xử lý nhẹ nhàng và ổn định hơn.\n\n### ✨ Tính năng mới\n- **Phát hiện trùng lặp VAT:** Khi thêm hóa đơn VAT từ bên ngoài (chia sẻ từ Zalo/Files), ứng dụng sẽ tự động kiểm tra xem giao dịch tương ứng đã có hóa đơn VAT chưa.\n- **Cảnh báo thông minh:** Hiển thị hộp thoại cảnh báo nếu phát hiện trùng lặp, cho phép người dùng chọn thay thế hoặc giữ nguyên.\n- **Giao diện chọn giao dịch:** Hiển thị trạng thái \"Đã có VAT\" ngay trong danh sách chọn giao dịch để người dùng dễ dàng nhận biết.\n\n### 🐛 Sửa lỗi\n- Khắc phục lỗi thiếu hàm xử lý ngày tháng (`_extractDate`) trong dịch vụ OCR.\n- Sửa lỗi cú pháp trong `AppTheme` gây lỗi biên dịch.\n",
+  "publishedAt": "2026-01-22T17:16:15.803432Z",
+  "fileSize": "54.9MB"
 }
