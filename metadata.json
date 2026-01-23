@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.29",
-  "versionCode": 87,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.29/overtime_1.4.29.apk",
-  "changelog": "## Thay đổi trong phiên bản 1.4.29\n\n### ⚡ Tối ưu hóa & Hiệu năng\n- **Tăng tốc độ tải Thông tin Vàng/Bạc:** Áp dụng cơ chế lưu cache và tải dữ liệu trước (Pre-load) khi vào Ví giấy tờ. Mở lên là hiện dữ liệu ngay, không cần đợi.\n- **Biểu đồ giá vàng:** Tối ưu hiển thị, chỉ hiện ngày hiện tại ở trục hoành để tránh bị chồng chéo chữ.\n\n### 🛠 Thay đổi tính năng\n- **Gỡ bỏ nguồn dữ liệu Mi Hồng:** Tinh gọn nguồn dữ liệu, chỉ lấy từ Tám Nhung. Giảm số lượng request API, tăng tốc độ tải.\n- **Gỡ bỏ tính năng BHXH/BHYT:** Tính năng tra cứu Bảo hiểm xã hội và Bảo hiểm y tế đã được loại bỏ khỏi ứng dụng.\n",
-  "publishedAt": "2026-01-23T12:24:43.029365Z",
+  "versionName": "1.4.30",
+  "versionCode": 88,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.30/overtime_1.4.30.apk",
+  "changelog": "## Thay đổi trong phiên bản 1.4.30\n\n### 🐛 Sửa lỗi Excel Export\n- **Thuế VAT 0%:** Không hiển thị \"0%\" nữa, chỉ hiện 8% hoặc 10% khi có.\n- **Xem ảnh trong Chứng từ:** Khi bấm \"Xem ảnh\", ảnh hiện ngay giữa màn hình, không cần cuộn lên.\n",
+  "publishedAt": "2026-01-23T16:24:37.313177Z",
   "fileSize": "54.8MB"
 }
