@@ -1,8 +1,8 @@
 {
   "versionName": "1.4.30",
-  "versionCode": 89,
+  "versionCode": 90,
   "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.30/overtime_1.4.30.apk",
-  "changelog": "## Thay đổi trong phiên bản 1.4.30\n\n### 🆕 Tính năng mới\n- **Xử lý trùng lặp hóa đơn VAT:** Tự động phát hiện và cảnh báo khi thêm hóa đơn VAT cho giao dịch đã có chứng từ. Cho phép ghi đè hoặc giữ lại chứng từ cũ.\n\n### ⚡ Tối ưu hóa Hiệu năng\n- **Tăng tốc xuất Excel Chi tiêu:** Nén ảnh trước khi nhúng (từ ~4MB → ~100KB/ảnh). Xuất 30 ảnh từ 2-3 phút → 10-20 giây.\n\n### 🐛 Sửa lỗi Excel Export\n- **Thuế VAT 0%:** Không hiển thị \"0%\" nữa, chỉ hiện 8% hoặc 10% khi có.\n- **Xem ảnh trong Chứng từ:** Khi bấm \"Xem ảnh\", ảnh hiện ngay giữa màn hình (không cần cuộn).\n",
-  "publishedAt": "2026-01-23T16:49:13.190769Z",
-  "fileSize": "54.8MB"
+  "changelog": "## Thay đổi trong phiên bản 1.4.30\n\n### 🆕 Tính năng mới\n- **Xử lý trùng lặp hóa đơn VAT:** Tự động phát hiện và cảnh báo khi thêm hóa đơn VAT cho giao dịch đã có chứng từ. Cho phép ghi đè hoặc giữ lại chứng từ cũ.\n\n### ⚡ Tối ưu hóa Hiệu năng\n- **Tăng tốc xuất Excel Chi tiêu:** Nén ảnh trước khi nhúng (từ ~4MB → ~100KB/ảnh). Xuất 30 ảnh từ 2-3 phút → 10-20 giây.\n\n### 🐛 Sửa lỗi Excel Export\n- **Lỗi xuất file \"Không có dữ liệu\":** Sửa lỗi ép kiểu dữ liệu khi chạy tiến trình ngầm, đảm bảo xuất file ổn định.\n- **Tự động căn chỉnh độ rộng cột:** Các cột trong file Excel giờ đây tự động giãn theo nội dung (AutoFit), giúp thông tin hiển thị đầy đủ và chuyên nghiệp hơn.\n- **Thuế VAT 0%:** Không hiển thị \"0%\" nữa, chỉ hiện 8% hoặc 10% khi có.\n- **Xem ảnh trong Chứng từ:** Khi bấm \"Xem ảnh\", ảnh hiện ngay giữa màn hình (không cần cuộn).\n",
+  "publishedAt": "2026-01-23T17:16:35.966885Z",
+  "fileSize": "54.9MB"
 }
