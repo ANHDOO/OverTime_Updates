@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.28",
-  "versionCode": 86,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.28/overtime_1.4.28.apk",
-  "changelog": "## Thay đổi trong phiên bản 1.4.28\n\n### ⚡ Tối ưu hóa & Hiệu năng\n- **Tăng tốc độ tải Thông tin Vàng/Bạc:** Chuyển sang cơ chế tải dữ liệu song song (Parallel Fetching) và xử lý lịch sử giá trong nền (Background), giúp màn hình hiển thị ngay lập tức mà không bị đơ.\n- **Biểu đồ giá vàng:** Tối ưu hiển thị, chỉ hiện ngày hiện tại ở trục hoành để tránh bị chồng chéo chữ (overlap) khi dữ liệu quá nhiều.\n\n### 🛠 Thay đổi tính năng\n- **Gỡ bỏ tính năng BHXH/BHYT:** Theo yêu cầu, tính năng tra cứu Bảo hiểm xã hội và Bảo hiểm y tế đã được loại bỏ khỏi ứng dụng để tinh gọn giao diện.\n",
-  "publishedAt": "2026-01-23T11:57:44.813703Z",
+  "versionName": "1.4.29",
+  "versionCode": 87,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.29/overtime_1.4.29.apk",
+  "changelog": "## Thay đổi trong phiên bản 1.4.29\n\n### ⚡ Tối ưu hóa & Hiệu năng\n- **Tăng tốc độ tải Thông tin Vàng/Bạc:** Áp dụng cơ chế lưu cache và tải dữ liệu trước (Pre-load) khi vào Ví giấy tờ. Mở lên là hiện dữ liệu ngay, không cần đợi.\n- **Biểu đồ giá vàng:** Tối ưu hiển thị, chỉ hiện ngày hiện tại ở trục hoành để tránh bị chồng chéo chữ.\n\n### 🛠 Thay đổi tính năng\n- **Gỡ bỏ nguồn dữ liệu Mi Hồng:** Tinh gọn nguồn dữ liệu, chỉ lấy từ Tám Nhung. Giảm số lượng request API, tăng tốc độ tải.\n- **Gỡ bỏ tính năng BHXH/BHYT:** Tính năng tra cứu Bảo hiểm xã hội và Bảo hiểm y tế đã được loại bỏ khỏi ứng dụng.\n",
+  "publishedAt": "2026-01-23T12:24:43.029365Z",
   "fileSize": "54.8MB"
 }
