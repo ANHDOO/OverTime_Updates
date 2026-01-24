@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.32",
-  "versionCode": 92,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.32/overtime_1.4.32.apk",
-  "changelog": "# Phiên bản 1.4.32\n\n## Cải tiến hiển thị số trên Google Sheets\n\n### Tính năng mới\n- **Format số có dấu phân cách nghìn**: Các cột số (Đơn giá, Thành tiền, Tổng, Đã nhận, Còn) hiển thị với dấu phân cách nghìn để dễ đọc hơn\n  - Ví dụ: `420000` → `420,000`\n\n### Bao gồm từ phiên bản 1.4.31\n- Bố cục Google Sheets giống Excel Phiếu Giải Chi\n- Gộp ô NCC khi trùng nhà cung cấp\n- Công thức \"Đã nhận\" hiển thị `=x+y+z`\n- Đồng bộ được dự án đã quyết toán\n- Sửa lỗi chỉnh sửa giao dịch đã quyết toán\n",
-  "publishedAt": "2026-01-24T16:53:34.937753Z",
+  "versionName": "1.4.33",
+  "versionCode": 93,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.33/overtime_1.4.33.apk",
+  "changelog": "# Phiên bản 1.4.33\n\n## Cải tiến hiển thị dự án đã quyết toán\n\n### Tính năng mới\n- **Thống kê bao gồm dự án đã quyết toán**: Biểu đồ và danh sách dự án trong màn hình Thống kê giờ hiển thị cả dự án đã quyết toán\n- **Xuất Excel cho dự án đã quyết toán**: Có thể xuất phiếu giải chi cho dự án đã quyết toán\n- **Autocomplete thông minh hơn**: Khi thêm/sửa giao dịch, dropdown dự án và autocomplete nhà cung cấp gợi ý từ cả lịch sử đã quyết toán\n\n### Bao gồm từ phiên bản trước\n- Format số có dấu phân cách nghìn trên Google Sheets\n- Bố cục Google Sheets giống Excel Phiếu Giải Chi\n- Gộp ô NCC khi trùng nhà cung cấp\n- Công thức \"Đã nhận\" hiển thị chi tiết\n",
+  "publishedAt": "2026-01-24T17:30:32.022877Z",
   "fileSize": "55.0MB"
 }
