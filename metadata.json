@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.30",
-  "versionCode": 90,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.30/overtime_1.4.30.apk",
-  "changelog": "## Thay đổi trong phiên bản 1.4.30\n\n### 🆕 Tính năng mới\n- **Xử lý trùng lặp hóa đơn VAT:** Tự động phát hiện và cảnh báo khi thêm hóa đơn VAT cho giao dịch đã có chứng từ. Cho phép ghi đè hoặc giữ lại chứng từ cũ.\n\n### ⚡ Tối ưu hóa Hiệu năng\n- **Tăng tốc xuất Excel Chi tiêu:** Nén ảnh trước khi nhúng (từ ~4MB → ~100KB/ảnh). Xuất 30 ảnh từ 2-3 phút → 10-20 giây.\n\n### 🐛 Sửa lỗi Excel Export\n- **Lỗi xuất file \"Không có dữ liệu\":** Sửa lỗi ép kiểu dữ liệu khi chạy tiến trình ngầm, đảm bảo xuất file ổn định.\n- **Tự động căn chỉnh độ rộng cột:** Các cột trong file Excel giờ đây tự động giãn theo nội dung (AutoFit), giúp thông tin hiển thị đầy đủ và chuyên nghiệp hơn.\n- **Thuế VAT 0%:** Không hiển thị \"0%\" nữa, chỉ hiện 8% hoặc 10% khi có.\n- **Xem ảnh trong Chứng từ:** Khi bấm \"Xem ảnh\", ảnh hiện ngay giữa màn hình (không cần cuộn).\n",
-  "publishedAt": "2026-01-23T17:16:35.966885Z",
-  "fileSize": "54.9MB"
+  "versionName": "1.4.31",
+  "versionCode": 91,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.31/overtime_1.4.31.apk",
+  "changelog": "# Phiên bản 1.4.31\n\n## Cải tiến Google Sheets Sync\n\n### Tính năng mới\n- **Bố cục giống Excel**: Đồng bộ lên Google Sheets với bố cục giống file Excel Phiếu Giải Chi\n  - Header thông tin công ty\n  - Tiêu đề \"PHIẾU GIẢI CHI\"\n  - Thông tin người đề xuất, ngày, lý do, tên gói\n  - Bảng chi tiết: STT, Tên vật tư, ĐVT, SL, Đơn giá, Thuế, Thành tiền, Ghi chú, NCC\n  - Summary: Tổng, Đã nhận, Còn\n  - Chữ ký\n\n- **Gộp ô NCC**: Các giao dịch cùng nhà cung cấp được gộp ô giống Excel\n\n- **Công thức \"Đã nhận\"**: Hiển thị chi tiết khoản thu dạng `=10000+5000+5000` thay vì chỉ số tổng (áp dụng cả Excel và Google Sheets)\n\n- **Đồng bộ dự án đã quyết toán**: Dự án đã quyết toán giờ hiển thị trong danh sách đồng bộ và có thể push lên Google Sheets\n\n### Sửa lỗi\n- Sửa lỗi không chỉnh sửa được giao dịch trong Lịch sử đã quyết toán\n- Tự động xóa sheet khi dự án không còn giao dịch nào\n- Cột STT có chiều rộng cố định, không bị auto-resize\n",
+  "publishedAt": "2026-01-24T16:27:05.845223Z",
+  "fileSize": "55.0MB"
 }
