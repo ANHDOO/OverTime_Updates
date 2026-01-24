@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.31",
-  "versionCode": 91,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.31/overtime_1.4.31.apk",
-  "changelog": "# Phiên bản 1.4.31\n\n## Cải tiến Google Sheets Sync\n\n### Tính năng mới\n- **Bố cục giống Excel**: Đồng bộ lên Google Sheets với bố cục giống file Excel Phiếu Giải Chi\n  - Header thông tin công ty\n  - Tiêu đề \"PHIẾU GIẢI CHI\"\n  - Thông tin người đề xuất, ngày, lý do, tên gói\n  - Bảng chi tiết: STT, Tên vật tư, ĐVT, SL, Đơn giá, Thuế, Thành tiền, Ghi chú, NCC\n  - Summary: Tổng, Đã nhận, Còn\n  - Chữ ký\n\n- **Gộp ô NCC**: Các giao dịch cùng nhà cung cấp được gộp ô giống Excel\n\n- **Công thức \"Đã nhận\"**: Hiển thị chi tiết khoản thu dạng `=10000+5000+5000` thay vì chỉ số tổng (áp dụng cả Excel và Google Sheets)\n\n- **Đồng bộ dự án đã quyết toán**: Dự án đã quyết toán giờ hiển thị trong danh sách đồng bộ và có thể push lên Google Sheets\n\n### Sửa lỗi\n- Sửa lỗi không chỉnh sửa được giao dịch trong Lịch sử đã quyết toán\n- Tự động xóa sheet khi dự án không còn giao dịch nào\n- Cột STT có chiều rộng cố định, không bị auto-resize\n",
-  "publishedAt": "2026-01-24T16:27:05.845223Z",
+  "versionName": "1.4.32",
+  "versionCode": 92,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Master/releases/download/v1.4.32/overtime_1.4.32.apk",
+  "changelog": "# Phiên bản 1.4.32\n\n## Cải tiến hiển thị số trên Google Sheets\n\n### Tính năng mới\n- **Format số có dấu phân cách nghìn**: Các cột số (Đơn giá, Thành tiền, Tổng, Đã nhận, Còn) hiển thị với dấu phân cách nghìn để dễ đọc hơn\n  - Ví dụ: `420000` → `420,000`\n\n### Bao gồm từ phiên bản 1.4.31\n- Bố cục Google Sheets giống Excel Phiếu Giải Chi\n- Gộp ô NCC khi trùng nhà cung cấp\n- Công thức \"Đã nhận\" hiển thị `=x+y+z`\n- Đồng bộ được dự án đã quyết toán\n- Sửa lỗi chỉnh sửa giao dịch đã quyết toán\n",
+  "publishedAt": "2026-01-24T16:53:34.937753Z",
   "fileSize": "55.0MB"
 }
