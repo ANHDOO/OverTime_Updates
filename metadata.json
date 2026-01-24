@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.33",
-  "versionCode": 93,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.33/overtime_1.4.33.apk",
-  "changelog": "# Phiên bản 1.4.33\n\n## Cải tiến hiển thị dự án đã quyết toán\n\n### Tính năng mới\n- **Thống kê bao gồm dự án đã quyết toán**: Biểu đồ và danh sách dự án trong màn hình Thống kê giờ hiển thị cả dự án đã quyết toán\n- **Xuất Excel cho dự án đã quyết toán**: Có thể xuất phiếu giải chi cho dự án đã quyết toán\n- **Autocomplete thông minh hơn**: Khi thêm/sửa giao dịch, dropdown dự án và autocomplete nhà cung cấp gợi ý từ cả lịch sử đã quyết toán\n\n### Bao gồm từ phiên bản trước\n- Format số có dấu phân cách nghìn trên Google Sheets\n- Bố cục Google Sheets giống Excel Phiếu Giải Chi\n- Gộp ô NCC khi trùng nhà cung cấp\n- Công thức \"Đã nhận\" hiển thị chi tiết\n",
-  "publishedAt": "2026-01-24T18:00:06.471997Z",
+  "versionName": "1.4.34",
+  "versionCode": 94,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.34/overtime_1.4.34.apk",
+  "changelog": "# Phiên bản 1.4.34\n\n## Tối ưu hệ thống cập nhật\n\n### Cải tiến\n- **Chuyển releases sang OverTime_Updates**: APK và metadata giờ được host trên repo riêng\n- **Tối ưu deploy script**: Sử dụng amend + force push để giữ repo gọn gàng (max 1 commit)\n- **Cải thiện autocomplete**: Gợi ý dự án và NCC từ cả lịch sử đã quyết toán\n- **Thống kê đầy đủ**: Biểu đồ và báo cáo bao gồm cả dự án đã quyết toán\n\n### Sửa lỗi\n- Format số có dấu phân cách nghìn trên Google Sheets\n- Xuất Excel cho dự án đã quyết toán\n",
+  "publishedAt": "2026-01-24T18:34:09.345355Z",
   "fileSize": "55.0MB"
 }
