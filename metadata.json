@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.34",
-  "versionCode": 94,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.34/overtime_1.4.34.apk",
-  "changelog": "# Phiên bản 1.4.34\n\n## Tối ưu hệ thống cập nhật\n\n### Cải tiến\n- **Chuyển releases sang OverTime_Updates**: APK và metadata giờ được host trên repo riêng\n- **Tối ưu deploy script**: Sử dụng amend + force push để giữ repo gọn gàng (max 1 commit)\n- **Cải thiện autocomplete**: Gợi ý dự án và NCC từ cả lịch sử đã quyết toán\n- **Thống kê đầy đủ**: Biểu đồ và báo cáo bao gồm cả dự án đã quyết toán\n\n### Sửa lỗi\n- Format số có dấu phân cách nghìn trên Google Sheets\n- Xuất Excel cho dự án đã quyết toán\n",
-  "publishedAt": "2026-01-24T18:34:09.345355Z",
+  "versionName": "1.4.35",
+  "versionCode": 95,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.35/overtime_1.4.35.apk",
+  "changelog": "# Phiên bản 1.4.35\n\n## Sửa lỗi\n\n### Sửa lỗi xuất Excel\n- **Sửa lỗi công thức \"Đã nhận\"**: Xóa dấu `=` thừa trong công thức Excel khiến ô hiển thị lỗi `==10000+5000`\n\n### Cải tiến từ phiên bản trước\n- Tối ưu hệ thống cập nhật\n- Autocomplete từ lịch sử đã quyết toán\n- Thống kê bao gồm dự án đã quyết toán\n",
+  "publishedAt": "2026-01-24T18:51:44.878744Z",
   "fileSize": "55.0MB"
 }
