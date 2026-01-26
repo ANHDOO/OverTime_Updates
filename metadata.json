@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.36",
-  "versionCode": 96,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.36/overtime_1.4.36.apk",
-  "changelog": "## Thay đổi trong phiên bản 1.4.36\n\n### 🚀 Tối ưu hóa & Hiệu năng\n- **Khắc phục lỗi treo ứng dụng khi khôi phục dữ liệu:** Tối ưu hóa quy trình khôi phục, chuyển việc tải ảnh sang chạy ngầm giúp ứng dụng mượt mà hơn.\n- **Tự động sao lưu sau khi Quyết toán:** Đảm bảo dữ liệu quyết toán được đồng bộ ngay lập tức lên Google Drive, tránh mất mát dữ liệu khi khôi phục.\n\n### 🐛 Sửa lỗi\n- **Sửa lỗi quét nhầm ảnh thừa:** Cập nhật thuật toán dọn dẹp để nhận diện đúng các ảnh thuộc dự án đã quyết toán và ảnh hóa đơn VAT, tránh xóa nhầm dữ liệu quan trọng.\n- **Bảo vệ file VAT:** Tăng cường cơ chế bảo vệ file hóa đơn VAT dựa trên ID từ Google Drive.\n\n### 📦 Khác\n- Cải thiện cấu trúc lưu trữ ảnh (chuyển vào thư mục `images/`).\n",
-  "publishedAt": "2026-01-26T16:40:00.912259Z",
+  "versionName": "1.4.37",
+  "versionCode": 97,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.37/overtime_1.4.37.apk",
+  "changelog": "## Thay đổi trong phiên bản 1.4.37\n\n### 🚀 Tối ưu hóa & Hiệu năng\n- **Khắc phục lỗi treo ứng dụng khi khôi phục dữ liệu:** Tối ưu hóa quy trình khôi phục, chuyển việc tải ảnh sang chạy ngầm giúp ứng dụng mượt mà hơn.\n- **Tự động sao lưu sau khi Quyết toán:** Đảm bảo dữ liệu quyết toán được đồng bộ ngay lập tức lên Google Drive, tránh mất mát dữ liệu khi khôi phục.\n\n### 🐛 Sửa lỗi\n- **Sửa lỗi quét nhầm ảnh thừa:** Cập nhật thuật toán dọn dẹp để nhận diện đúng các ảnh thuộc dự án đã quyết toán và ảnh hóa đơn VAT, tránh xóa nhầm dữ liệu quan trọng.\n- **Bảo vệ file VAT:** Tăng cường cơ chế bảo vệ file hóa đơn VAT dựa trên ID từ Google Drive.\n- **Sửa lỗi nhận diện VAT cho dự án đã quyết toán:** Khi chia sẻ file PDF hóa đơn VAT, app giờ đây có thể khớp với cả các giao dịch thuộc dự án đã quyết toán.\n\n### 📦 Khác\n- Cải thiện cấu trúc lưu trữ ảnh (chuyển vào thư mục `images/`).\n",
+  "publishedAt": "2026-01-26T17:03:48.420083Z",
   "fileSize": "55.5MB"
 }
