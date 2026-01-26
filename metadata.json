@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.35",
-  "versionCode": 95,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.35/overtime_1.4.35.apk",
-  "changelog": "# Phiên bản 1.4.35\n\n## Sửa lỗi\n\n### Sửa lỗi xuất Excel\n- **Sửa lỗi công thức \"Đã nhận\"**: Xóa dấu `=` thừa trong công thức Excel khiến ô hiển thị lỗi `==10000+5000`\n\n### Cải tiến từ phiên bản trước\n- Tối ưu hệ thống cập nhật\n- Autocomplete từ lịch sử đã quyết toán\n- Thống kê bao gồm dự án đã quyết toán\n",
-  "publishedAt": "2026-01-24T18:51:44.878744Z",
-  "fileSize": "55.0MB"
+  "versionName": "1.4.36",
+  "versionCode": 96,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.36/overtime_1.4.36.apk",
+  "changelog": "## Thay đổi trong phiên bản 1.4.36\n\n### 🚀 Tối ưu hóa & Hiệu năng\n- **Khắc phục lỗi treo ứng dụng khi khôi phục dữ liệu:** Tối ưu hóa quy trình khôi phục, chuyển việc tải ảnh sang chạy ngầm giúp ứng dụng mượt mà hơn.\n- **Tự động sao lưu sau khi Quyết toán:** Đảm bảo dữ liệu quyết toán được đồng bộ ngay lập tức lên Google Drive, tránh mất mát dữ liệu khi khôi phục.\n\n### 🐛 Sửa lỗi\n- **Sửa lỗi quét nhầm ảnh thừa:** Cập nhật thuật toán dọn dẹp để nhận diện đúng các ảnh thuộc dự án đã quyết toán và ảnh hóa đơn VAT, tránh xóa nhầm dữ liệu quan trọng.\n- **Bảo vệ file VAT:** Tăng cường cơ chế bảo vệ file hóa đơn VAT dựa trên ID từ Google Drive.\n\n### 📦 Khác\n- Cải thiện cấu trúc lưu trữ ảnh (chuyển vào thư mục `images/`).\n",
+  "publishedAt": "2026-01-26T16:40:00.912259Z",
+  "fileSize": "55.5MB"
 }
