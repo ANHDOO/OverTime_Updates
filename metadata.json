@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.40",
-  "versionCode": 100,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.40/overtime_1.4.40.apk",
-  "changelog": "# Phiên bản 1.4.40\n\n## 🐛 Sửa lỗi quan trọng\n\n### Trùng lặp chứng từ VAT trên Drive\n- **Trước:** Mỗi lần lưu giao dịch tạo file trùng lặp trên Drive\n- **Sau:** Tự động xóa file cũ cùng tên trước khi upload file mới\n\n### Trạng thái \"Chờ đồng bộ Drive\" \n- **Trước:** Thẻ giao dịch hiển thị \"Chờ đồng bộ\" dù đã upload xong\n- **Sau:** Trạng thái cập nhật ngay khi upload hoàn tất\n\n## 🔧 Cải tiến\n\n### Debug khôi phục ảnh\n- Thêm log chi tiết cho quá trình upload VAT\n- Hỗ trợ cập nhật giao dịch đã quyết toán (archived)\n\n",
-  "publishedAt": "2026-01-27T12:27:08.110377Z",
+  "versionName": "1.4.41",
+  "versionCode": 101,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.41/overtime_1.4.41.apk",
+  "changelog": "# Phiên bản 1.4.41\n\n## 🐛 Sửa lỗi UI & Cải thiện trải nghiệm\n\n### Gợi ý tiền thông minh (Smart Money Suggestions)\n- **Trước:** Gợi ý hiển thị ngay dưới ô nhập liệu làm đẩy giao diện và gây lỗi tràn viền (overflow) trên màn hình cài đặt lương.\n- **Sau:** Chuyển sang sử dụng **Overlay** ghim trực tiếp lên trên bàn phím.\n- **Cải tiến:** \n    - Gợi ý luôn nằm ở vị trí thuận tiện nhất (ngay trên bàn phím) bất kể kích thước màn hình hay loại bàn phím.\n    - Thiết kế tối giản, không làm ảnh hưởng đến bố cục của các thành phần khác.\n    - Tăng độ tương phản và độ đậm cho các nút gợi ý để dễ nhìn hơn.\n    - Hỗ trợ cuộn ngang nếu có nhiều gợi ý, đảm bảo không bao giờ bị lỗi hiển thị.\n",
+  "publishedAt": "2026-01-27T17:23:23.076002Z",
   "fileSize": "55.7MB"
 }
