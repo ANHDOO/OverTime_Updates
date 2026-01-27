@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.39",
-  "versionCode": 99,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.39/overtime_1.4.39.apk",
-  "changelog": "# Phiên bản 1.4.39\n\n## ⚡ Tối ưu hiệu năng\n\n### Xuất Excel nhanh hơn 5-10 lần\n- **Nén ảnh song song**: Thay vì nén từng ảnh một (tuần tự), giờ nén tất cả ảnh cùng lúc\n- **Giảm dung lượng ảnh**: Tối ưu kích thước (600x1000) và chất lượng (50%) để xuất nhanh hơn\n- **Sử dụng công thức Excel**: Tổng cộng và Còn lại giờ dùng formula `=SUM()` thay vì giá trị cứng\n\n### Cải thiện tốc độ load màn hình\n- **Lazy loading thông minh**: Màn hình Ví giấy tờ & Tiện ích không còn reload khi mở lại\n- **Cache dữ liệu**: CitizenProfile và Gold data sử dụng `ensureLoaded()` để tránh fetch trùng lặp\n\n## 🐛 Sửa lỗi\n\n### Biểu đồ giá vàng\n- **Sửa lỗi % không khớp biểu đồ**: Phần trăm thay đổi giờ tính từ điểm đầu tiên trong chart (giống Binance, TradingView)\n- Trước: Biểu đồ tăng nhưng % hiển thị giảm ❌\n- Sau: Biểu đồ và % luôn nhất quán ✅\n\n## 🔧 Cải tiến\n\n### Debug khôi phục ảnh\n- Thêm log chi tiết khi khôi phục ảnh từ Drive\n- Hiển thị loại giao dịch (THU/CHI) cho mỗi ảnh thiếu\n- Giúp dễ dàng debug khi ảnh không được restore\n\n",
-  "publishedAt": "2026-01-27T11:50:10.664416Z",
+  "versionName": "1.4.40",
+  "versionCode": 100,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.40/overtime_1.4.40.apk",
+  "changelog": "# Phiên bản 1.4.40\n\n## 🐛 Sửa lỗi quan trọng\n\n### Trùng lặp chứng từ VAT trên Drive\n- **Trước:** Mỗi lần lưu giao dịch tạo file trùng lặp trên Drive\n- **Sau:** Tự động xóa file cũ cùng tên trước khi upload file mới\n\n### Trạng thái \"Chờ đồng bộ Drive\" \n- **Trước:** Thẻ giao dịch hiển thị \"Chờ đồng bộ\" dù đã upload xong\n- **Sau:** Trạng thái cập nhật ngay khi upload hoàn tất\n\n## 🔧 Cải tiến\n\n### Debug khôi phục ảnh\n- Thêm log chi tiết cho quá trình upload VAT\n- Hỗ trợ cập nhật giao dịch đã quyết toán (archived)\n\n",
+  "publishedAt": "2026-01-27T12:27:08.110377Z",
   "fileSize": "55.7MB"
 }
