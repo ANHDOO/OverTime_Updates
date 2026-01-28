@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.43",
-  "versionCode": 103,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.43/overtime_1.4.43.apk",
-  "changelog": "# Version 1.4.43\n\n## ✨ Tính năng mới: AI Assistant mở rộng\n\n### AI Trợ lý thông minh\n- 🤖 **Nút AI nổi** - Có thể kéo thả để di chuyển vị trí\n- 💬 **Giao diện chat** - Glassmorphism design, hỗ trợ markdown\n\n### Các câu hỏi AI hỗ trợ\n- 💰 **Dự toán lương** - \"Dự toán lương tháng này?\"\n- 📈 **Giá vàng** - \"Giá vàng hôm nay?\"\n- 📊 **Lời lãi đầu tư** - \"Lời lãi đầu tư vàng?\"\n- 💳 **Lãi nợ lương** - \"Lãi nợ lương tháng này?\"\n- 💸 **Tổng thu chi** - \"Tổng chi tháng này?\"\n- ⛽ **Giá xăng dầu** - \"Giá xăng?\" (nguồn: PVOIL)\n- 💱 **Tỷ giá ngoại tệ** - \"Tỷ giá USD?\" (nguồn: Vietcombank)\n- ⏰ **Số giờ OT** - \"OT tháng này?\"\n- ✈️ **Công tác phí** - \"Công tác phí tháng này?\"\n- 💼 **Số dư quỹ** - \"Số dư quỹ?\"\n\n### Cải tiến\n- 🔄 Dữ liệu được load ngay khi mở app (không cần vào từng màn hình)\n- 📝 Text trong chat wrap đúng theo chiều rộng màn hình\n- 🐛 Fix lỗi \"lãi nợ lương\" bị nhận nhầm thành \"dự toán lương\"\n",
-  "publishedAt": "2026-01-28T15:38:57.073896Z",
+  "versionName": "1.4.44",
+  "versionCode": 104,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.44/overtime_1.4.44.apk",
+  "changelog": "# Version 1.4.44\n\n## 🛠 Sửa lỗi UI\n- 📏 **Tăng chiều rộng tin nhắn AI** - Giờ đây tin nhắn AI sẽ sử dụng tối đa 90% chiều rộng màn hình, giúp text hiển thị đầy đủ hơn và ít xuống dòng lưng chừng.\n- 💬 **Tối ưu hiển thị** - Cải thiện layout bubble chat để mang lại trải nghiệm đọc tốt hơn.\n\n## ✨ Tính năng từ bản 1.4.43\n- 🤖 **Trợ lý AI mở rộng** - Hỗ trợ 10 loại câu hỏi: Lương, Vàng, Xăng dầu, Ngoại tệ, OT, Công tác phí, Số dư quỹ, Thu chi, Lãi đầu tư, Lãi nợ.\n- 🔄 **Load dữ liệu thông minh** - Dữ liệu được tải ngay khi mở app.\n",
+  "publishedAt": "2026-01-28T16:09:04.346755Z",
   "fileSize": "55.8MB"
 }
