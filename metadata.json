@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.44",
-  "versionCode": 104,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.44/overtime_1.4.44.apk",
-  "changelog": "# Version 1.4.44\n\n## 🛠 Sửa lỗi UI\n- 📏 **Tăng chiều rộng tin nhắn AI** - Giờ đây tin nhắn AI sẽ sử dụng tối đa 90% chiều rộng màn hình, giúp text hiển thị đầy đủ hơn và ít xuống dòng lưng chừng.\n- 💬 **Tối ưu hiển thị** - Cải thiện layout bubble chat để mang lại trải nghiệm đọc tốt hơn.\n\n## ✨ Tính năng từ bản 1.4.43\n- 🤖 **Trợ lý AI mở rộng** - Hỗ trợ 10 loại câu hỏi: Lương, Vàng, Xăng dầu, Ngoại tệ, OT, Công tác phí, Số dư quỹ, Thu chi, Lãi đầu tư, Lãi nợ.\n- 🔄 **Load dữ liệu thông minh** - Dữ liệu được tải ngay khi mở app.\n",
-  "publishedAt": "2026-01-28T16:09:04.346755Z",
-  "fileSize": "55.8MB"
+  "versionName": "1.4.45",
+  "versionCode": 105,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.45/overtime_1.4.45.apk",
+  "changelog": "# Nhật ký thay đổi 1.4.45\n\n### ✨ Tính năng mới\n- **Gợi ý câu hỏi thông minh (AI Assistant)**:\n    - Hiển thị các gợi ý câu hỏi mặc định khi bắt đầu: \"Giá vàng?\", \"Dự toán lương?\", \"Tổng chi tháng này?\".\n    - Tự động gợi ý các câu hỏi tiếp theo dựa trên ngữ cảnh (ví dụ: sau khi hỏi về lương sẽ gợi ý xem bảng lương chi tiết hoặc so sánh với tháng trước).\n    - Tối ưu giao diện thanh gợi ý, tự động ẩn khi không có nội dung.\n\n### 🛠️ Cải tiến & Sửa lỗi\n- Cập nhật `OvertimeProvider` để hỗ trợ các tính năng tra cứu thông tin của Trợ lý AI.\n- Sửa lỗi không hiển thị gợi ý sau khi nhận phản hồi từ AI.\n- Cải thiện độ ổn định của hệ thống.\n",
+  "publishedAt": "2026-01-28T16:34:18.678179Z",
+  "fileSize": "55.9MB"
 }
