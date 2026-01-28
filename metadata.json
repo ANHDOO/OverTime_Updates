@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.42",
-  "versionCode": 102,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.42/overtime_1.4.42.apk",
-  "changelog": "# OverTime v1.4.42\n\n### 🚀 Tính năng mới & Cải tiến\n- **Tối ưu hóa Tra cứu MST**:\n    - Tăng tốc độ hiển thị mã Captcha bằng cách giảm thời gian chờ và tăng tần suất kiểm tra.\n    - Cải thiện độ ổn định khi tra cứu bằng cách sử dụng các selector chính xác hơn để nhận diện dữ liệu.\n    - Bổ sung cơ chế quản lý session giúp việc tra cứu mượt mà hơn.\n- **Nâng cấp màn hình Lãi nợ lương**:\n    - Bổ sung thông tin thời gian nợ và ngày thanh toán ngay trên thẻ danh sách.\n    - Thêm màn hình chi tiết cho từng khoản nợ, hiển thị đầy đủ breakdown tiền lãi (lãi cơ bản 1.5% và lãi quá hạn 0.1%/ngày).\n    - Giao diện chi tiết mới với phong cách glassmorphism hiện đại.\n\n### 🛠️ Sửa lỗi\n- Cải thiện hiệu năng và độ ổn định của hệ thống.\n",
-  "publishedAt": "2026-01-28T13:14:58.110051Z",
-  "fileSize": "55.7MB"
+  "versionName": "1.4.43",
+  "versionCode": 103,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.43/overtime_1.4.43.apk",
+  "changelog": "# Version 1.4.43\n\n## ✨ Tính năng mới: AI Assistant mở rộng\n\n### AI Trợ lý thông minh\n- 🤖 **Nút AI nổi** - Có thể kéo thả để di chuyển vị trí\n- 💬 **Giao diện chat** - Glassmorphism design, hỗ trợ markdown\n\n### Các câu hỏi AI hỗ trợ\n- 💰 **Dự toán lương** - \"Dự toán lương tháng này?\"\n- 📈 **Giá vàng** - \"Giá vàng hôm nay?\"\n- 📊 **Lời lãi đầu tư** - \"Lời lãi đầu tư vàng?\"\n- 💳 **Lãi nợ lương** - \"Lãi nợ lương tháng này?\"\n- 💸 **Tổng thu chi** - \"Tổng chi tháng này?\"\n- ⛽ **Giá xăng dầu** - \"Giá xăng?\" (nguồn: PVOIL)\n- 💱 **Tỷ giá ngoại tệ** - \"Tỷ giá USD?\" (nguồn: Vietcombank)\n- ⏰ **Số giờ OT** - \"OT tháng này?\"\n- ✈️ **Công tác phí** - \"Công tác phí tháng này?\"\n- 💼 **Số dư quỹ** - \"Số dư quỹ?\"\n\n### Cải tiến\n- 🔄 Dữ liệu được load ngay khi mở app (không cần vào từng màn hình)\n- 📝 Text trong chat wrap đúng theo chiều rộng màn hình\n- 🐛 Fix lỗi \"lãi nợ lương\" bị nhận nhầm thành \"dự toán lương\"\n",
+  "publishedAt": "2026-01-28T15:38:57.073896Z",
+  "fileSize": "55.8MB"
 }
