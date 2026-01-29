@@ -3,6 +3,6 @@
   "versionCode": 106,
   "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.46/overtime_1.4.46.apk",
   "changelog": "# Nhật ký thay đổi - Phiên bản 1.4.46\n\n### 🚀 Tính năng mới & Cải tiến\n- **Cải tiến nhập liệu tiền thông minh**: \n    - Tự động hiển thị thanh gợi ý ngay khi nhấn vào ô nhập liệu (không cần xoá đi gõ lại).\n    - Hỗ trợ gợi ý cho các mức lương lớn lên đến hàng trăm triệu đồng (trước đây bị giới hạn ở 6 chữ số).\n- **Tối ưu hóa mở Google Sheets**: \n    - Ưu tiên mở trực tiếp bằng ứng dụng Google Sheets trên điện thoại để có trải nghiệm tốt nhất.\n    - Tự động chuyển sang trình duyệt web nếu máy chưa cài đặt ứng dụng.\n\n### 🛠️ Sửa lỗi\n- Sửa lỗi không hiển thị gợi ý cho ô \"Lương hợp đồng\" khi có giá trị mặc định lớn.\n",
-  "publishedAt": "2026-01-29T10:52:10.879443Z",
+  "publishedAt": "2026-01-29T12:32:16.210064Z",
   "fileSize": "55.9MB"
 }
