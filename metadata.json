@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.47",
-  "versionCode": 107,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.47/overtime_1.4.47.apk",
-  "changelog": "## 🚀 Tính năng mới\n- **AI Assistant**: \n  - Cập nhật vị trí hiển thị mặc định lên góc trên bên phải.\n  - Tinh chỉnh khoảng cách lề (margin) đồng bộ với nút thêm giao dịch (16px).\n  - Sửa lỗi nút AI bị ẩn hoặc nhảy vị trí khi khởi động.\n  - Cải thiện trải nghiệm kéo thả mượt mà hơn.\n\n## 🐛 Sửa lỗi\n- **Giao diện**:\n  - Loại bỏ header \"Cài đặt\" bị trùng lặp trong màn hình Cài đặt.\n  - Tối ưu hiển thị trên các kích thước màn hình khác nhau.\n",
-  "publishedAt": "2026-01-29T13:06:31.666811Z",
+  "versionName": "1.4.48",
+  "versionCode": 108,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.48/overtime_1.4.48.apk",
+  "changelog": "# 1.4.48\n\n## Hệ thống\n- Sửa lỗi Upload ảnh lên Google Drive: Fix lỗi quyền truy cập và cải thiện UI.\n- Cải thiện Backup/Restore VAT: Hỗ trợ đồng bộ nhiều dự án, xử lý ký tự đặc biệt.\n\n## Xuất PDF (Cải tiến mạnh mẽ)\n- **STT chuẩn Excel**: Đồng bộ logic sắp xếp theo Nhà cung cấp & Ngày (Tăng dần).\n- **Giao diện**: Hiển thị \"STT: [X]\" rõ nét; Tự động ẩn nhãn cho khoản Thu.\n- **Tốc độ**: Tối ưu hóa tải ảnh, giảm thời gian tạo file.\n\n## Khác\n- Sửa các lỗi giao diện và tối ưu hiệu suất ứng dụng.\n",
+  "publishedAt": "2026-01-30T13:19:48.247431Z",
   "fileSize": "55.9MB"
 }
