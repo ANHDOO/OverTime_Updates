@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.48",
-  "versionCode": 108,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.48/overtime_1.4.48.apk",
-  "changelog": "# 1.4.48\n\n## Hệ thống\n- Sửa lỗi Upload ảnh lên Google Drive: Fix lỗi quyền truy cập và cải thiện UI.\n- Cải thiện Backup/Restore VAT: Hỗ trợ đồng bộ nhiều dự án, xử lý ký tự đặc biệt.\n\n## Xuất PDF (Cải tiến mạnh mẽ)\n- **STT chuẩn Excel**: Đồng bộ logic sắp xếp theo Nhà cung cấp & Ngày (Tăng dần).\n- **Giao diện**: Hiển thị \"STT: [X]\" rõ nét; Tự động ẩn nhãn cho khoản Thu.\n- **Tốc độ**: Tối ưu hóa tải ảnh, giảm thời gian tạo file.\n\n## Khác\n- Sửa các lỗi giao diện và tối ưu hiệu suất ứng dụng.\n",
-  "publishedAt": "2026-01-30T13:19:48.247431Z",
+  "versionName": "1.4.49",
+  "versionCode": 109,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.49/overtime_1.4.49.apk",
+  "changelog": "# Bản cập nhật 1.4.49\n\n### ✨ Tính năng mới & Cải tiến\n- **Điều hướng nhanh từ Kiểm tra VAT**: Cho phép chạm vào thẻ giao dịch trong màn hình \"Thiếu VAT\" để chuyển hướng trực tiếp đến màn hình chỉnh sửa giao dịch, giúp bổ sung chứng từ nhanh chóng hơn.\n- **Dọn dẹp file thừa trên Drive**: Bổ sung tính năng quét toàn diện các tệp tin (hình ảnh chứng từ và PDF VAT) không còn liên kết với bất kỳ giao dịch nào. Hỗ trợ xóa từng file hoặc xóa tất cả để giải phóng dung lượng Drive.\n- **Cải thiện Xem trước file**: Hỗ trợ xem trước các tệp tin trực tiếp từ Drive trước khi quyết định dọn dẹp.\n\n### 🐛 Vá lỗi (Bug Fixes)\n- **Sửa lỗi trùng lặp VAT trên Drive**: \n    - Chuẩn hóa tên file chứng từ VAT để tránh tạo nhiều bản sao khi cập nhật.\n    - Sử dụng Drive ID để cập nhật nội dung file hiện có thay vì tạo file mới mỗi khi thay đổi chứng từ.\n    - Cải thiện độ ổn định khi tải chứng từ trong nền.\n\n### 🛠 Hệ thống\n- Tối ưu hóa logic đồng bộ hóa và quản lý cache file VAT.\n- Xử lý các cảnh báo về hiệu suất và tính nhất quán của dữ liệu.\n",
+  "publishedAt": "2026-01-31T12:18:33.629324Z",
   "fileSize": "55.9MB"
 }
