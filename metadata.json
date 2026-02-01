@@ -3,6 +3,6 @@
   "versionCode": 112,
   "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.52/overtime_1.4.52.apk",
   "changelog": "# OverTime v1.4.52\n- **Phiên bản:** 1.4.52\n- **Build:** 112\n- **Ngày:** 01/02/2026\n\n## Tính năng & Cải tiến\n- **Cài đặt lương theo tháng**: Hỗ trợ thiết lập lương, phụ cấp và bảo hiểm riêng biệt cho từng tháng.\n- **Bảo vệ dữ liệu lịch sử**: Chỉnh sửa lương tháng hiện tại không còn làm ảnh hưởng đến các tháng cũ.\n- **Tự động tính ngày công**: Hệ thống tự động nhận diện số ngày công chính xác theo lịch (27 công cho tháng 1, 24 công cho tháng 2, v.v.).\n- **Giao diện Cài đặt mới**: Bổ sung bộ chọn tháng trong phần cài đặt mức lương.\n\n## Sửa lỗi\n- Sửa lỗi sai lệch đơn giá giờ khi thay đổi giữa các tháng có số ngày công khác nhau.\n- Cập nhật fallback dữ liệu an toàn hơn khi chưa có cấu hình tháng cụ thể.\n",
-  "publishedAt": "2026-02-01T11:45:39.060625Z",
+  "publishedAt": "2026-02-01T12:52:48.471747Z",
   "fileSize": "55.7MB"
 }
