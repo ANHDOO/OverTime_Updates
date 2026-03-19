@@ -10,7 +10,7 @@
     "versionCode": 3,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.2/funlink_1.0.2.apk",
     "changelog": "# Funlink v1.0.2\n- **Version:** 1.0.2\n- **Build:** 3\n- **Ngày phát hành:** 19/03/2026\n\n## Tính năng mới\n- **Tối ưu hóa tab mới**: Khắc phục độ trễ 2-5 giây khi mở tab mới. Tab mới giờ đây mở ngay lập tức với trang trắng (`about:blank`).\n- **Tự động focus**: Khi mở tab mới, thanh địa chỉ sẽ được tự động chọn và mở bàn phím để gõ ngay.\n- **Smart Omnibox**: Thanh địa chỉ thông minh hơn, tự động nhận diện nếu bạn gõ tên miền (website) hoặc từ khóa tìm kiếm trên Google.\n\n## Cải tiến\n- **Auto-Cleanup**: Tự động dọn dẹp bộ nhớ đệm và tệp tạm thời khi cập nhật phiên bản mới, giúp duy trì dung lượng nhẹ (~18.5MB).\n- Tăng tốc độ phản hồi UI.\n- Sửa lỗi đồng bộ URL khi chuyển đổi giữa các tab.\n",
-    "publishedAt": "2026-03-19T17:42:09.082316Z",
+    "publishedAt": "2026-03-19T18:07:15.909862Z",
     "fileSize": "18.5MB"
   }
 }
