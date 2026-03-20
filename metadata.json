@@ -9,8 +9,8 @@
     "versionName": "1.0.5",
     "versionCode": 6,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.5/funlink_1.0.5.apk",
-    "changelog": "# Release Notes 1.0.5\n\n- Cải thiện hiệu suất và ổn định\n- Sửa lỗi nhỏ\n",
-    "publishedAt": "2026-03-19T23:04:01.983688Z",
-    "fileSize": "18.3MB"
+    "changelog": "# Funlink v1.0.5\n\n### 🔔 Cải thiện Thông báo cập nhật\n- Khi nhấn vào thông báo \"Đã tải xong bản cập nhật\", ứng dụng sẽ tự động mở màn hình Cài đặt để cài đặt bản cập nhật một cách tin cậy hơn.\n\n### 🧹 Tự động dọn dẹp bộ nhớ\n- Tự động xóa file APK cũ trước khi tải bản cập nhật mới, giúp tiết kiệm dung lượng thiết bị.\n\n### 🚀 Thoát ứng dụng mượt mà khi cập nhật\n- Ứng dụng sẽ tự động thoát sau khi khởi chạy trình cài đặt APK, tránh xung đột giữa bản cũ và bản mới.\n\n### 🗑️ Loại bỏ tính năng Mã Siêu Tốc\n- Gỡ bỏ hoàn toàn tính năng \"Mã Siêu Tốc\" khỏi ứng dụng để đơn giản hóa giao diện.\n\n### 🛠️ Sửa lỗi\n- Cải thiện độ ổn định tổng thể của ứng dụng.\n",
+    "publishedAt": "2026-03-20T09:19:22.590962Z",
+    "fileSize": "18.6MB"
   }
 }
