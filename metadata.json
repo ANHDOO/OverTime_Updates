@@ -10,7 +10,7 @@
     "versionCode": 10,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.9/funlink_1.0.9.apk",
     "changelog": "# FunLink v1.0.9 Update\n\n## Sửa Lỗi (Bug Fixes)\n- Sửa lỗi nghiêm trọng: Không load được trang đích (final link) khiến người dùng bị kẹt ở trường NhapMa.\n- Tối ưu hóa hệ thống JSONBin payload để đảm bảo dữ liệu luôn được lưu chính xác.\n- Đơn giản hóa và tăng tốc luồng xử lý Telegram Notification.\n- Gỡ bỏ các cờ check trạng thái dư thừa, giúp ứng dụng nhẹ và mượt mà hơn.\n",
-    "publishedAt": "2026-03-22T10:45:58.149258Z",
+    "publishedAt": "2026-03-22T10:52:00.500995Z",
     "fileSize": "18.3MB"
   }
 }
