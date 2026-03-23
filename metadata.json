@@ -6,11 +6,11 @@
   "publishedAt": "2026-03-04T12:27:26.825019Z",
   "fileSize": "55.7MB",
   "funlink": {
-    "versionName": "1.0.10",
-    "versionCode": 11,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.10/funlink_1.0.10.apk",
-    "changelog": "## Phiên Bản 1.0.10\n**Fix Lỗi & Tinh Chỉnh (Bản Hoàn Thiện)**\n- 🔒 **Chống Spam Telegram Toàn Diện**: Triển khai cơ chế khóa 2 lớp (Double-Layer Lock) bao gồm khóa tĩnh trên RAM (0ms) và khóa dữ liệu cấu trúc 1 trường trên Server. Triệt để ngăn chặn tình trạng gửi nhiều thông báo trùng lặp.\n- 🧹 **Tối Ưu Data Khóa App**: Chỉnh sửa JSONBin Sync để bảo toàn mọi trường dữ liệu trên Cloud mà không bị lỗi ghi đè xóa sạch như trước.\n- 🎨 **Dọn Dẹp Thông Báo**: Gỡ bỏ các thẻ Emoji hardcode rườm rà ra khỏi hệ thống Notification của máy giúp nhìn Native và sạch sẽ hơn.\n- 🚦 **Realtime Cập Nhật**: Trạng thái tải về các bản update giờ đây đã tự động nhảy % theo thời gian thực tại màn hình cài đặt cấu hình.\n- 🛡️ **Siết Chặt Admin Guard**: Thêm cơ chế làm sạch ID `.trim()` khi xác thực quyền thiết bị Admin, đảm bảo không có máy trạm nào lọt được vào luồng gọi API nhạy cảm.\n",
-    "publishedAt": "2026-03-22T11:04:19.777830Z",
-    "fileSize": "18.3MB"
+    "versionName": "1.0.11",
+    "versionCode": 12,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.11/funlink_1.0.11.apk",
+    "changelog": "## Phiên Bản 1.0.11\n**Fix Lỗi Script Injection & Cải Thiện Ổn Định**\n- 🔧 **Fix Skip NV1 không cuộn & không xoá QC**: Script trước đây chạy quá sớm (AT_DOCUMENT_START) khi DOM chưa tồn tại. Giờ đã đợi DOMContentLoaded, tự cuộn xuống và xoá quảng cáo đúng thời điểm. Chạy lại 3 lần (0s, 1s, 3s) để bắt QC load muộn.\n- 🔧 **Fix Auto NV2 không hoạt động**: Cùng nguyên nhân — script quét `<script>` tags khi chưa có DOM nên tìm 0 kết quả. Giờ đợi DOM sẵn sàng + delay 500ms cho page scripts khởi tạo biến toàn cục.\n- ⚡ **Nút Skip NV1 luôn re-trigger**: Bỏ flag `_skipNv1Once` cũ, giờ mỗi lần bấm đều cuộn + xoá QC lại.\n- 🛡️ **onLoadStop tăng cường**: Trang load xong sẽ tự động cuộn xuống và dọn QC thêm 1 lần nữa.\n",
+    "publishedAt": "2026-03-23T17:16:42.702329Z",
+    "fileSize": "18.7MB"
   }
 }
