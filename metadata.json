@@ -6,11 +6,11 @@
   "publishedAt": "2026-03-04T12:27:26.825019Z",
   "fileSize": "55.7MB",
   "funlink": {
-    "versionName": "1.0.15",
-    "versionCode": 16,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.15/funlink_1.0.15.apk",
-    "changelog": "# Release 1.0.15\n\n## Cải thiện\n- **Hệ thống tự động**: Cập nhật CI framework hỗ trợ Windows và tích hợp undetected-chromedriver để tự động vượt chặn Cloudflare Turnstile siêu nhanh.\n- **Tối ưu Bypass**: Hỗ trợ VuotNhanh và ưu tiên xử lý các luồng vượt link nhanh, trả về kết quả mượt mà hơn.\n- **Sửa lỗi Script**: Cải thiện độ ổn định và khắc phục các lỗi liên quan đến bypass auto-scripts.\n",
-    "publishedAt": "2026-03-31T13:30:02.507321Z",
+    "versionName": "1.0.16",
+    "versionCode": 17,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v1.0.16/funlink_1.0.16.apk",
+    "changelog": "# Release 1.0.16\n\n## Tối ưu & Cải thiện\n- **Nâng cấp Bypass NV2 (NhapMa)**: \n  - Tích hợp tự động \"Instant Server Test\": Thử lấy mã xác nhận ngay tích tắc mà không cần chờ bộ đếm.\n  - Nâng cấp \"Early Polling\": Ép máy chủ tự động trả mã từ 30 giây cuối thay vì ngủ đông bắt chịu đựng 90 giây như trước.\n  - Tối ưu song song cho cả nút Auto NV2 và nút bấm ép Quick NV2 thủ công.\n  - Sửa lỗi bị văng cục bộ (Crash App) khi thực thi ngầm quá nhiều tập lệnh Bypass mã nhúng.\n",
+    "publishedAt": "2026-03-31T16:49:57.448645Z",
     "fileSize": "18.4MB"
   }
 }
