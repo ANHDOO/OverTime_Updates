@@ -16,9 +16,9 @@
   "tube2audio": {
     "versionName": "1.0.1",
     "versionCode": 2,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.1/tube2audio_1.0.1.apk",
+    "downloadUrl": "https://github.com/ANHDOO/Tube2Audio/releases/download/tube2audio-v1.0.1/tube2audio_1.0.1.apk",
     "changelog": "# Tube2Audio v1.0.1\n- **Version:** 1.0.1\n- **Build:** 2\n- **Ngày phát hành:** 08/04/2026\n\n## Tính năng mới\n- Thêm **Kiểm tra cập nhật** trong menu sidebar\n- Tự động kiểm tra bản mới khi mở ứng dụng (splash screen)\n- Tải và cài đặt APK mới trực tiếp từ GitHub Releases\n- Auto-clear APK cũ để không chồng chất dung lượng\n- Hiển thị version động thay vì hardcode\n",
-    "publishedAt": "2026-04-08T11:58:49.237300Z",
+    "publishedAt": "2026-04-08T12:06:06.795555Z",
     "fileSize": "34.9MB"
   }
 }
