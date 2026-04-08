@@ -14,11 +14,11 @@
     "fileSize": "18.4MB"
   },
   "tube2audio": {
-    "versionName": "1.0.2",
-    "versionCode": 3,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.2/tube2audio_1.0.2.apk",
-    "changelog": "# Tube2Audio v1.0.2\n- **Version:** 1.0.2\n- **Build:** 3\n- **Ngày phát hành:** 08/04/2026\n\n## Tối ưu & Cải thiện\n- Thay đổi icon \"Kiểm tra cập nhật\" thành biểu tượng lặp lại (sync).\n- Khi có bản mới, Sidebar sẽ phát sáng đỏ và tự động chuyển dòng \"Kiểm tra cập nhật\" thành **\"Cập nhật v1.X.X\"** cho user dễ nhận biết.\n- Fix logic nhấn vào dòng \"Cập nhật vX\" thì hiển thị Popup mời tải xuống.\n",
-    "publishedAt": "2026-04-08T12:18:12.604777Z",
+    "versionName": "1.0.3",
+    "versionCode": 4,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.3/tube2audio_1.0.3.apk",
+    "changelog": "# Tube2Audio v1.0.3\n- **Version:** 1.0.3\n- **Build:** 4\n- **Ngày phát hành:** 08/04/2026\n\n## Tính năng mới\n- Tích hợp chuẩn tải nhạc trực tiếp từ **SoundCloud**. \n- Tự động trích xuất thông tin bài hát (tên, ảnh bìa, âm thanh chất lượng gốc) qua cơ chế \"hydrated state\" trên trình duyệt hoàn toàn độc lập, không thông qua API trung gian để đảm bảo độ mượt và sống dai.\n- Giao diện (Màn hình chính) nhận diện link tự động, chỉ cần người dùng dán link YouTube, TikTok hoặc SoundCloud, App sẽ tự động đổi cơ chế để download!\n",
+    "publishedAt": "2026-04-08T12:45:28.930423Z",
     "fileSize": "34.9MB"
   }
 }
