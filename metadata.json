@@ -14,11 +14,11 @@
     "fileSize": "18.4MB"
   },
   "tube2audio": {
-    "versionName": "1.0.1",
-    "versionCode": 2,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.1/tube2audio_1.0.1.apk",
-    "changelog": "# Tube2Audio v1.0.1\n- **Version:** 1.0.1\n- **Build:** 2\n- **Ngày phát hành:** 08/04/2026\n\n## Tính năng mới\n- Thêm **Kiểm tra cập nhật** trong menu sidebar\n- Tự động kiểm tra bản mới khi mở ứng dụng (splash screen)\n- Tải và cài đặt APK mới trực tiếp từ GitHub Releases\n- Auto-clear APK cũ để không chồng chất dung lượng\n- Hiển thị version động thay vì hardcode\n",
-    "publishedAt": "2026-04-08T12:10:28.304463Z",
+    "versionName": "1.0.2",
+    "versionCode": 3,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.2/tube2audio_1.0.2.apk",
+    "changelog": "# Tube2Audio v1.0.2\n- **Version:** 1.0.2\n- **Build:** 3\n- **Ngày phát hành:** 08/04/2026\n\n## Tối ưu & Cải thiện\n- Thay đổi icon \"Kiểm tra cập nhật\" thành biểu tượng lặp lại (sync).\n- Khi có bản mới, Sidebar sẽ phát sáng đỏ và tự động chuyển dòng \"Kiểm tra cập nhật\" thành **\"Cập nhật v1.X.X\"** cho user dễ nhận biết.\n- Fix logic nhấn vào dòng \"Cập nhật vX\" thì hiển thị Popup mời tải xuống.\n",
+    "publishedAt": "2026-04-08T12:18:12.604777Z",
     "fileSize": "34.9MB"
   }
 }
