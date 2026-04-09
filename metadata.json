@@ -22,10 +22,10 @@
     "fileSize": "34.9MB"
   },
   "stl_z_exporter": {
-    "versionName": "1.0.1",
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/stl-z-exporter-v1.0.1/STL_Z-Height_Extractor_Setup.exe",
-    "changelog": "# STL Z-Height Extractor v1.0.1\n- **Version:** 1.0.1\n- **Ngày phát hành:** 08/04/2026\n\n## Nội dung cập nhật\n- Cải thiện hiệu suất và ổn định\n- Sửa lỗi nhỏ\n",
-    "publishedAt": "2026-04-08T18:07:49.759388Z",
+    "versionName": "1.0.2",
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/stl-z-exporter-v1.0.2/STL_Z-Height_Extractor_Setup.exe",
+    "changelog": "# STL Z-Height Extractor v1.0.2\n- **Version:** 1.0.2\n- **Ngày phát hành:** 09/04/2026\n\n## Nội dung cập nhật\n- Cải thiện hiệu suất và ổn định\n- Sửa lỗi nhỏ\n",
+    "publishedAt": "2026-04-09T12:40:36.768524Z",
     "fileSize": "93.5MB"
   }
 }
