@@ -10,7 +10,7 @@
     "versionCode": 18,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v2.0.1/funlink_2.0.1.apk",
     "changelog": "# Release 2.0.1\n\n## Tối ưu & Cải thiện\n- **Nâng cấp Bypass NV2 (NhapMa)**: \n  - Khắc phục các vấn đề liên quan đến xác thực và tìm nút trên trang Nhập Mã.\n  - Tối ưu hóa vòng lặp Auto-Loop để hoạt động trơn tru và chính xác hơn.\n  - Cải tiến hiệu suất tổng thể và sửa một số lỗi giao diện.\n",
-    "publishedAt": "2026-05-26T18:13:24.548970Z",
+    "publishedAt": "2026-05-26T18:15:34.376480Z",
     "fileSize": "48.1MB"
   },
   "tube2audio": {
