@@ -6,11 +6,11 @@
   "publishedAt": "2026-03-04T12:27:26.825019Z",
   "fileSize": "55.7MB",
   "funlink": {
-    "versionName": "2.0.4",
-    "versionCode": 21,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v2.0.4/funlink_2.0.4.apk",
-    "changelog": "# Release 2.0.4\n\n## Tính năng mới & Tối ưu hóa\n- **Dọn dẹp dung lượng APK cũ (Storage Cleanup)**:\n  - Khắc phục triệt để hiện tượng dung lượng bộ nhớ phình to khi tải các bản cập nhật mới liên tục.\n  - Cập nhật cơ chế dọn dẹp nền khi khởi động ứng dụng: Quét và xóa sạch tất cả tệp tin cài đặt APK cũ (`toolgetkey_update_*.apk`) được tải về trong thư mục lưu trữ ngoài (`getExternalStorageDirectory()`) từ các phiên bản trước.\n  - Tối ưu hóa bộ nhớ tạm của thiết bị giúp giải phóng hoàn toàn hàng trăm MB dung lượng dư thừa.\n",
-    "publishedAt": "2026-05-27T14:37:19.986362Z",
+    "versionName": "2.0.5",
+    "versionCode": 22,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v2.0.5/ToolgetKeyV2.apk",
+    "changelog": "# Release 2.0.5\n\n## Tính năng mới & Tối ưu hóa\n- **Tối ưu hóa tốc độ tải bản cập nhật (100x Speed Boost)**:\n  - Tích hợp các cụm máy chủ siêu Proxy phân tán tối ưu riêng cho người dùng Việt Nam (`GitHubFast`, `999XYZ`, `Moeyy Proxy`).\n  - Nâng cấp cơ chế đo kiểm tra tốc độ phản hồi cực nhanh thông qua việc Ping trực tiếp địa chỉ gốc của máy chủ trung gian (Root Ping) thay vì gửi HEAD request toàn phần tệp tin 48MB.\n  - Tự động phát hiện và chuyển đổi sang máy chủ có độ trễ kết nối thấp nhất, đẩy tốc độ tải file cập nhật từ ~100KB/s lên mức tối đa **10MB/s - 30MB/s (Tải xong APK chỉ trong 2-5 giây)**.\n\n- **Đồng bộ thời gian thực Chế độ Hệ điều hành (Real-time OS Mode Sync)**:\n  - Khắc phục triệt để hiện tượng mất tập lệnh tự động nhảy bước, tự động NV2 hay đổi nhiệm vụ khi thay đổi chế độ Android <-> iOS trong Cài đặt mà không cần khởi động lại ứng dụng.\n  - Đồng bộ hóa biến môi trường `window._isIosMode` ngay tức thì trên tất cả các tab đang chạy và duy trì cưỡng bức khi tải trang mới.\n\n- **Sửa lỗi Auto Fill & Quét trùng lặp trên NhapMa (Android & iOS)**:\n  - **Bẻ khóa Auto Fill**: Tự động vô hiệu hóa thuộc tính `disabled` và `readOnly` của ô nhập liệu trên NhapMa để dán mã code ngay lập tức mà không cần chờ bộ đếm thời gian đếm ngược.\n  - **Tăng giới hạn độ dài mã code**: Nâng ngưỡng nhận diện mã code hợp lệ lên tối đa 20 ký tự (chấp nhận tất cả mã dài/ngắn).\n  - **Chống quét lặp OCR**: Khắc phục hiện tượng quét lại hình ảnh OCR gây tràn màn hình khi từ trang nhiệm vụ quay trở lại trang NhapMa bằng cách duy trì liên kết đã trích xuất nếu cùng địa chỉ trang và kiểm tra chốt chặn an toàn trong bộ nhớ tạm.\n\n- **Đổi tên tệp Deploy cố định**:\n  - Đổi tên tệp cài đặt khi phân phối lên GitHub Releases cố định là **`ToolgetKeyV2.apk`** thay vì đính kèm số phiên bản động, giúp quá trình phân phối nhất quán.\n",
+    "publishedAt": "2026-05-27T15:22:11.800154Z",
     "fileSize": "48.1MB"
   },
   "tube2audio": {
