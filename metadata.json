@@ -14,10 +14,10 @@
     "fileSize": "48.4MB"
   },
   "tube2audio": {
-    "versionName": "1.0.5",
-    "versionCode": 6,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.5/tube2audio_1.0.5.apk",
-    "changelog": "### 🐣 Truyện Tuổi Thơ & Thai Giáo\n- Đưa tính năng Truyện Tuổi Thơ ra trực tiếp thanh điều hướng chính (Bottom Bar 4 nút).\n- Chế độ Audio-Only tắt màn hình nghe mượt mà.\n- Hẹn Giờ Tắt (Sleep Timer) 15-90 phút."
+    "versionName": "1.0.6",
+    "versionCode": 7,
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.6/tube2audio_1.0.6.apk",
+    "changelog": "### 🚀 Tối Ưu Tốc Độ Tải & Phát Âm Thanh (Instant Audio Streaming)\n- Bỏ bước truy vấn metadata thừa, tiết kiệm 1.5 - 2.5s mỗi lần mở bài.\n- Bộ nhớ đệm URL audio trong RAM giúp phát lại tức thì (0ms latency).\n- Tự động tải trước (Prefetch) luồng audio cho danh sách truyện."
   },
   "stl_z_exporter": {
     "versionName": "1.0.12",
