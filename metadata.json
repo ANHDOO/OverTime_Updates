@@ -17,7 +17,9 @@
     "versionName": "1.0.7",
     "versionCode": 8,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.7/tube2audio_1.0.7.apk",
-    "changelog": "Critical audio speed fix"
+    "changelog": "# Tube2Audio v1.0.7 Release Notes\n\n### ⚡ Sửa Lỗi Tốc Độ Phát Audio Chậm (Critical Performance Fix):\n- **Loại bỏ Dart Isolate:** Bỏ `compute()` isolate gây tốn 1-2s mỗi lần tạo thread mới → chạy trực tiếp trên main thread nhanh hơn gấp đôi.\n- **Giảm từ 2 API clients → 1:** Chỉ dùng `androidVr` thay vì thử lần lượt `androidVr + tv` → giảm 50% thời gian kết nối mạng.\n- **Chọn bitrate vừa phải:** Không lấy file audio bitrate cao nhất nữa (gây buffer lâu khi mạng yếu) → chọn chất lượng trung bình để phát nhanh nhất có thể.\n- **Prefetch song song:** Tải trước URL audio cho 3 bài cùng lúc (parallel) thay vì tuần tự từng bài.\n",
+    "publishedAt": "2026-08-17T15:35:52.294814Z",
+    "fileSize": "33.8MB"
   },
   "stl_z_exporter": {
     "versionName": "1.0.12",
