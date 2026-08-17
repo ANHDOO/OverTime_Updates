@@ -17,7 +17,9 @@
     "versionName": "1.0.6",
     "versionCode": 7,
     "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.6/tube2audio_1.0.6.apk",
-    "changelog": "### 🚀 Tối Ưu Tốc Độ Tải & Phát Âm Thanh (Instant Audio Streaming)\n- Bỏ bước truy vấn metadata thừa, tiết kiệm 1.5 - 2.5s mỗi lần mở bài.\n- Bộ nhớ đệm URL audio trong RAM giúp phát lại tức thì (0ms latency).\n- Tự động tải trước (Prefetch) luồng audio cho danh sách truyện."
+    "changelog": "# Tube2Audio v1.0.6 Release Notes\n\n### 🚀 Tối Ưu Tốc Độ Tải & Phát Âm Thanh (Instant Audio Streaming):\n- **Bỏ bước gọi API trùng lặp:** Loại bỏ lệnh truy vấn video metadata thừa trước khi lấy luồng âm thanh, giúp tiết kiệm 1.5 đến 2.5 giây cho mỗi lần mở bài.\n- **Bộ nhớ đệm luồng Audio (In-Memory Stream Cache):** Lưu trữ tạm URL luồng audio trực tiếp trong RAM, giúp các lần bấm phát lại hoặc chuyển bài diễn ra **tức thì (0ms latency)**.\n- **Tự động tải trước (Background Stream Prefetching):** Tự động tải trước URL audio cho danh sách truyện và bài hát ngay khi danh sách hiển thị, bấm là phát ngay không phải chờ đợi.\n",
+    "publishedAt": "2026-08-17T15:26:37.065351Z",
+    "fileSize": "33.8MB"
   },
   "stl_z_exporter": {
     "versionName": "1.0.12",
