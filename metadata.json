@@ -20,10 +20,10 @@
     "changelog": "Critical audio speed fix"
   },
   "stl_z_exporter": {
-    "versionName": "1.0.13",
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/stl-z-exporter-v1.0.13/STL_Z-Height_Extractor_Setup.exe",
-    "changelog": "# STL Z-Height Extractor v1.0.13\n- **Version:** 1.0.13\n- **Ngày phát hành:** 12/10/2026\n\n## Nội dung cập nhật\n- Nâng cấp thuật toán phân rã đa phôi ghép thông minh (Multi-block patch stock optimization) chuẩn theo bản vẽ kỹ thuật CAD.\n- Tự động gom cụm theo cao độ Z và tối ưu hít cạnh mép phôi (boundary snapping).\n- Bổ sung sơ đồ mặt bằng phôi và khối đắp trực quan trên bản vẽ PDF kèm bảng kích thước chi tiết (Đế + Khối đắp).\n- Đồng bộ toàn diện 10/10 thông số trong Cài Đặt (phôi tiêu chuẩn, dung sai hít cạnh, biên an toàn, ngưỡng tiết kiệm...).\n",
-    "publishedAt": "2026-10-12T13:56:00.805221Z",
-    "fileSize": "109.5MB"
+    "versionName": "1.0.14",
+    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/stl-z-exporter-v1.0.14/STL_Z-Height_Extractor_Setup.exe",
+    "changelog": "# STL Z-Height Extractor v1.0.14\n- **Version:** 1.0.14\n- **Ngày phát hành:** 13/10/2026\n\n## Nội dung cập nhật\n- **Tối ưu hóa gộp phôi thông minh (Adjacent & Same-Thickness Merge):** Tự động hợp nhất các khối phôi ghép liền kề có cùng chiều dày, giảm thiểu tối đa các mảnh ghép vụn/hẹp lắt nhắt, tạo kết cấu phôi vuông vắn, cứng vững và tiết kiệm công gia công cho xưởng.\n- **Thanh tìm kiếm nhanh (Live Search) & Gom nhóm file:**\n  + Tìm kiếm tức thì theo tên file STL ngay trên bảng danh sách.\n  + Cột Checkbox thông minh lưu giữ trạng thái chọn kể cả khi chuyển đổi từ khóa tìm kiếm.\n  + Thanh tác vụ nổi bật cho phép xuất PDF nhóm (riêng rẽ hoặc gộp 1 file) và xuất bảng Excel riêng cho các file đã chọn.\n- **Hoàn thiện bản vẽ PDF:** Đồng bộ 100% màu sắc và số thứ tự khối phôi trên cả 4 mục bản vẽ (Mặt cắt trước, Hình 3D, Mặt bằng ghép, Hình lắp ghép Isometric).\n",
+    "publishedAt": "2026-10-13T09:12:16.166828Z",
+    "fileSize": "109.6MB"
   }
 }
