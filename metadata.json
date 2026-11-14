@@ -1,29 +1,8 @@
 {
-  "versionName": "1.4.55",
-  "versionCode": 115,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.55/overtime_1.4.55.apk",
-  "changelog": "# Cập nhật phiên bản 1.4.55\n\nBản cập nhật này nâng cấp khả năng phản hồi của Trợ lý AI và sửa các lỗi kỹ thuật quan trọng liên quan đến dữ liệu và thông báo.\n\n### 🤖 Trợ lý AI Thông minh hơn\n- **Tự động cập nhật dữ liệu**: Trợ lý AI giờ đây sẽ chủ động kiểm tra và tải lại giá vàng/đầu tư mới nhất ngay khi bạn đặt câu hỏi. Một khi đã có dữ liệu, AI sẽ ghi nhớ để trả lời nhanh hơn.\n- **Xử lý bất đồng bộ triệt để**: Khắc phục lỗi AI báo \"chưa sẵn sàng\" khi dữ liệu đang tải trong nền. AI sẽ kiên nhẫn đợi cho đến khi có dữ liệu thật sự mới đưa ra câu trả lời.\n- **Cơ chế dự phòng linh hoạt**: Cho phép AI hiển thị thông tin đầu tư từ bộ nhớ ngay cả trong điều kiện mạng yếu không lấy được giá thị trường mới nhất.\n\n### 🛠️ Sửa lỗi & Kỹ thuật\n- **Đồng bộ hóa dữ liệu**: Sửa lỗi race condition trong `GoldProvider` giúp việc tải dữ liệu ổn định hơn trên các thiết bị cấu hình thấp.\n- **Tối ưu hóa thông báo**: Khắc phục lỗi tương thích với hệ thống thông báo trên Android (vấn đề `uiLocalNotificationDateInterpretation`), đảm bảo nhắc nhở chấm công hoạt động chính xác.\n- **Nâng cấp bảo vệ**: Thêm cơ chế chống gọi API trùng lặp để tiết kiệm pin và băng thông.\n\n---\nBản cập nhật đem lại trải nghiệm AI mượt mà và chính xác hơn cho OverTime!\n",
-  "publishedAt": "2026-03-04T12:27:26.825019Z",
-  "fileSize": "55.7MB",
-  "funlink": {
-    "versionName": "2.0.7",
-    "versionCode": 26,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/funlink-v2.0.7/ToolgetKeyV2.apk",
-    "changelog": "# Release 2.0.7\n\n- **Version:** 2.0.7\n- **Build:** 26\n- **Ngày phát hành:** 04/08/2026\n\n## Tính năng mới & Cải tiến\n- **Cập nhật quy trình GetKeyMafia**: Tắt chế độ tự động lặp (auto-loop) theo mặc định để tối ưu trải nghiệm người dùng.\n- **Nút Nổi Toggle Auto-Loop (FAB)**: Bổ sung nút bấm nổi cho phép bật/tắt nhanh chế độ tự động lặp trực tiếp từ màn hình chính.\n- **Tối ưu hóa UI Helpers & Loop Logic**: Cải thiện hiệu suất xử lý luồng duyệt web, tối ưu giao diện và tăng độ ổn định cho hệ thống.\n",
-    "publishedAt": "2026-08-04T14:13:22.801247Z",
-    "fileSize": "48.4MB"
-  },
-  "tube2audio": {
-    "versionName": "1.0.7",
-    "versionCode": 8,
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/tube2audio-v1.0.7/tube2audio_1.0.7.apk",
-    "changelog": "Critical audio speed fix"
-  },
-  "stl_z_exporter": {
-    "versionName": "1.0.14",
-    "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/stl-z-exporter-v1.0.14/STL_Z-Height_Extractor_Setup.exe",
-    "changelog": "# STL Z-Height Extractor v1.0.14\n- **Version:** 1.0.14\n- **Ngày phát hành:** 13/10/2026\n\n## Nội dung cập nhật\n- **Tối ưu hóa gộp phôi thông minh (Adjacent & Same-Thickness Merge):** Tự động hợp nhất các khối phôi ghép liền kề có cùng chiều dày, giảm thiểu tối đa các mảnh ghép vụn/hẹp lắt nhắt, tạo kết cấu phôi vuông vắn, cứng vững và tiết kiệm công gia công cho xưởng.\n- **Thanh tìm kiếm nhanh (Live Search) & Gom nhóm file:**\n  + Tìm kiếm tức thì theo tên file STL ngay trên bảng danh sách.\n  + Cột Checkbox thông minh lưu giữ trạng thái chọn kể cả khi chuyển đổi từ khóa tìm kiếm.\n  + Thanh tác vụ nổi bật cho phép xuất PDF nhóm (riêng rẽ hoặc gộp 1 file) và xuất bảng Excel riêng cho các file đã chọn.\n- **Hoàn thiện bản vẽ PDF:** Đồng bộ 100% màu sắc và số thứ tự khối phôi trên cả 4 mục bản vẽ (Mặt cắt trước, Hình 3D, Mặt bằng ghép, Hình lắp ghép Isometric).\n",
-    "publishedAt": "2026-10-13T09:12:16.166828Z",
-    "fileSize": "109.6MB"
-  }
+  "versionName": "1.4.58",
+  "versionCode": 119,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.58/overtime_1.4.58.apk",
+  "changelog": "# Cap nhat phien ban 1.4.58\n\nBan cap nhat nay bo sung tinh nang ho so ca nhan, chu ky dong va he thong quan ly ban quyen thiet bi theo phan quyen Quan tri vien / Nguoi dung.\n\n### 1. Ho so ca nhan va Chu ky dong\n- Go bo gioi han co dinh ten va chu ky: Cho phep nguoi dung hoac dong nghiep tuy chinh ho ten, ma nhan vien va chu ky so ca nhan trong muc Cai dat -> Ho so & Chu ky.\n- Tu dong ap dung thong tin dong: Ho ten va chu ky moi duoc dong bo xuyen suot khi xuat bao cao Excel tang ca, phieu giai chi quy, de xuat vat tu va thong bao nhac nho.\n\n### 2. He thong Ban quyen & Quan tri thiet bi\n- Xac thuc ban quyen thiet bi: Tich hop xac thuc qua he thong Firebase REST & Realtime Database doc lap.\n- Bang dieu khien Quan tri vien (Admin Dashboard): Cho phep cap ma key moi (30, 90, 365 ngay), quan ly thoi han va khoa/mo khoa thiet bi tu xa theo thoi gian thuc.\n- Toi uu giao dien Nguoi dung (Lua chon B): Nguoi dung thong thuong duy tri day du 4 tab nghiep vu (Quy, Tang ca, Lai no, De xuat) luu tru tren SQLite cuc bo; tu do lien ket Google Drive sao luu; an nut Tro ly AI, an vi giay to va cac cong cu kiem tra ke toan/VAT chuyen sau.\n\n",
+  "publishedAt": "2026-11-14T12:26:31.917152Z",
+  "fileSize": "56.5MB"
 }
