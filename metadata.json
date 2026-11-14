@@ -1,8 +1,8 @@
 {
-  "versionName": "1.4.58",
-  "versionCode": 119,
-  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.58/overtime_1.4.58.apk",
-  "changelog": "# Cap nhat phien ban 1.4.58\n\nBan cap nhat nay bo sung tinh nang ho so ca nhan, chu ky dong va he thong quan ly ban quyen thiet bi theo phan quyen Quan tri vien / Nguoi dung.\n\n### 1. Ho so ca nhan va Chu ky dong\n- Go bo gioi han co dinh ten va chu ky: Cho phep nguoi dung hoac dong nghiep tuy chinh ho ten, ma nhan vien va chu ky so ca nhan trong muc Cai dat -> Ho so & Chu ky.\n- Tu dong ap dung thong tin dong: Ho ten va chu ky moi duoc dong bo xuyen suot khi xuat bao cao Excel tang ca, phieu giai chi quy, de xuat vat tu va thong bao nhac nho.\n\n### 2. He thong Ban quyen & Quan tri thiet bi\n- Xac thuc ban quyen thiet bi: Tich hop xac thuc qua he thong Firebase REST & Realtime Database doc lap.\n- Bang dieu khien Quan tri vien (Admin Dashboard): Cho phep cap ma key moi (30, 90, 365 ngay), quan ly thoi han va khoa/mo khoa thiet bi tu xa theo thoi gian thuc.\n- Toi uu giao dien Nguoi dung (Lua chon B): Nguoi dung thong thuong duy tri day du 4 tab nghiep vu (Quy, Tang ca, Lai no, De xuat) luu tru tren SQLite cuc bo; tu do lien ket Google Drive sao luu; an nut Tro ly AI, an vi giay to va cac cong cu kiem tra ke toan/VAT chuyen sau.\n\n",
-  "publishedAt": "2026-11-14T12:26:31.917152Z",
-  "fileSize": "56.5MB"
+  "versionName": "1.4.59",
+  "versionCode": 120,
+  "downloadUrl": "https://github.com/ANHDOO/OverTime_Updates/releases/download/v1.4.59/overtime_1.4.59.apk",
+  "changelog": "# Cập nhật phiên bản 1.4.59\n\nBản cập nhật nâng cấp giao diện Bản quyền & Quản trị Admin chuẩn Dark Tech Glassmorphism, tối ưu hóa tốc độ tải cập nhật và sửa lỗi điều hướng đăng xuất.\n\n### 1. Nâng cấp giao diện Bản quyền & Quản trị (Chuẩn Dark Tech & Glassmorphism)\n- Màn hình kích hoạt bản quyền hiện đại: Hiệu ứng Frosted Glass, sao chép ID 1-chạm, dán key nhanh, bảo vệ chống dò mã và lắng nghe mở khóa tự động từ xa.\n- Bảng điều khiển Quản trị viên 3 tab: Thống kê trực quan, tìm kiếm thiết bị thời gian thực, gia hạn hạn dùng nhanh (+7d, +15d, +30d, +90d, +1y) hoặc chọn theo lịch, hủy gán mã key và kiểm tra kết nối máy chủ.\n\n### 2. Tối ưu tốc độ tải APK cập nhật\n- Ưu tiên link CDN trực tiếp từ GitHub Releases giúp tốc độ tải tăng từ ~100 KB/s lên 1.7 - 2.3 MB/s (tải xong bản cập nhật trong ~30 giây).\n\n### 3. Sửa lỗi điều hướng khi đăng xuất\n- Khi Quản trị viên đăng xuất hoặc phiên bản quyền hết hạn, ứng dụng chuyển hướng dứt khoát về màn hình kích hoạt bản quyền.\n",
+  "publishedAt": "2026-11-14T13:06:49.700653Z",
+  "fileSize": "56.6MB"
 }
